@@ -7,6 +7,17 @@ const Downloader = require('./axios-downloader');
 const CACHE_DIR = '.cache';
 const OUTPUT_DIR = 'data';
 const OUTPUT_FNAME = 'lotd-boosters.json';
+const OUTPUT_FNAME2 = 'lotd-cards.json';
+
+const CARD_TYPES = {
+    "Normal Monsters":"Normal Monster", "Effect Monsters":"Effect Monster",
+    "Spirit monsters":"Spirit monster","Union monsters":"Union monster",
+    "Tuner monsters":"Tuner monster","Gemini monsters":"Gemini monster",
+    "Toon monsters":"Toon monster","Pendulum Monsters":"Pendulum Monster",
+    "Ritual Monsters":"Ritual Monster","Fusion Monsters":"Fusion Monster",
+    "Synchro Monsters":"Synchro Monster","Xyz Monsters":"Xyz Monster",
+    "Spells":"Spell","Traps":"Trap",
+};
 
 const mkdirIfNotExists = (directory) => {
     if (!existsSync(directory)) {
@@ -39,6 +50,32 @@ const main = async () => {
 
     console.log(`writing ${OUTPUT_FNAME}`);
     writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME}`, JSON.stringify(result, null, 2));
+
+    const cardMap = {};
+    const packNames = Object.keys(result);
+    for (const packName of packNames) {
+        const pack = result[packName];
+        const cardTypes = Object.keys(pack);
+        for (const cardType of cardTypes) {
+            if (cardType == 'title' || cardType == 'cost') {
+                continue;
+            }
+            if (cardType in CARD_TYPES) {
+                const cards = pack[cardType];
+                for (const card of cards) {
+                    cardMap[card] = {
+                        cardType: CARD_TYPES[cardType], pack: packName,
+                    };
+                }
+            }
+            else {
+                console.log(`unknown card type: ${cardType}`);
+            }
+        }
+    }
+
+    console.log(`writing ${OUTPUT_FNAME2}`);
+    writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME2}`, JSON.stringify(cardMap, null, 2));
 
 };
 
