@@ -1,2 +1,11 @@
 
 @import "./neat.css";
+
+.search-bar {
+    display: flex;
+}
+
+.search-bar input {
+    flex: 1;
+}
+
