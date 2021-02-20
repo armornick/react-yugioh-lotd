@@ -11,6 +11,8 @@
   "author": "armornick",
   "license": "CC0",
   "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-react": "^7.12.13",
     "axios": "^0.21.1",
     "jsdom": "^16.4.0"
   },
