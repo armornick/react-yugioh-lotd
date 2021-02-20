@@ -1,6 +1,28 @@
 
 @import "./neat.css";
 
+/* -----------------------------------------------------------------
+    Table Styles
+*/
+
+table {
+    margin-top: 2rem;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid #111;
+}
+
+th, td {
+    padding: .25rem;
+}
+
+/* -----------------------------------------------------------------
+    Search Bar Styles
+*/
+
 .search-bar {
     display: flex;
 }

@@ -5,10 +5,26 @@ import { useCardSearch } from './yugioh-hooks';
 
 const SearchResults = ({ data }) => {
     return (
-        <ul>
-            { data.map(item => 
-                    <li key={item.name}><code>{JSON.stringify(item)}</code></li>) }
-        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Pack</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                {
+                    data.map(item => 
+                        <tr key={item.id}>
+                            <td>{item.name}</td>
+                            <td>{item.pack}</td>
+                            <td>{item.cardType}</td>
+                        </tr>
+                    )
+                }
+            </tbody>
+        </table>
     );
 };
 
