@@ -1,0 +1,18 @@
+{
+  "name": "lotd-card-db",
+  "private": true,
+  "scripts": {
+    "gen-data:lotd": "node data/fetch-lotd-card-shop.js",
+    "gen-data:link-evolution": "node data/fetch-link-evolution-card-shop.js",
+    "gen-data": "npm-run-all gen-data:*"
+  },
+  "author": "armornick",
+  "license": "CC0",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
