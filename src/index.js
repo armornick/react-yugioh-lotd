@@ -1,31 +1,8 @@
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-
-
-const PackList = () => {
-
-    const [packs, setPacks] = useState([]);
-
-    useEffect(() => {
-        import('../data/lotd-boosters.json')
-            .then((data) => {
-                const packs = Object.keys(data);
-                setPacks(packs);
-            });
-    });
-
-    return (
-        <>
-            <h1>Legacy of the Duelist!</h1>
-            <ul>
-                { packs.map(item =>
-                    <li key={item}>{ item }</li>) }
-            </ul>
-        </>
-    );
-
-};
-
+import PackList from './pack-list';
+import CardList from './card-list';
 
 ReactDOM.render(<PackList />, document.getElementById('app'));
+// ReactDOM.render(<CardList packName="Mai Valentine" />, document.getElementById('app'));
