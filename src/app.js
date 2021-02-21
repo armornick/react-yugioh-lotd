@@ -8,11 +8,11 @@ import CardSearch from './card-search';
 const App = () => {
 
     return (
-        <div className="columns">
-            <section>
+        <div className="row">
+            <section className="column">
                 <PackList />
             </section>
-            <section>
+            <section className="column">
                 <CardSearch />
             </section>
         </div>
