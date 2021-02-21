@@ -1,7 +1,6 @@
 
 import React from 'react';
-import PackList from './pack-list';
-import CardList from './card-list';
+import PackViewer from './pack-viewer';
 import CardSearch from './card-search';
 
 
@@ -10,7 +9,7 @@ const App = () => {
     return (
         <div className="row">
             <section className="column">
-                <PackList />
+                <PackViewer />
             </section>
             <section className="column">
                 <CardSearch />

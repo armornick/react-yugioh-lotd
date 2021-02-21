@@ -2,23 +2,12 @@
 @import "milligram";
 
 /* -----------------------------------------------------------------
-    Page Layout
+    Base Styles
 */
 
-/* #app {
-    min-width: 1024px;
-    max-width: 1140px;
-    margin: 0 auto;
+a {
+    cursor: pointer;
 }
-
-.columns {
-    display: flex;
-}
-
-.columns > section, 
-.columns > div {
-    flex: 1;
-} */
 
 
 /* -----------------------------------------------------------------
