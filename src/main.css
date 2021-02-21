@@ -2,6 +2,25 @@
 @import "./neat.css";
 
 /* -----------------------------------------------------------------
+    Page Layout
+*/
+
+#app {
+    min-width: 1024px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.columns {
+    display: flex;
+}
+
+.columns > section, 
+.columns > div {
+    flex: 1;
+}
+
+/* -----------------------------------------------------------------
     Table Styles
 */
 

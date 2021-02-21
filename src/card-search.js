@@ -44,8 +44,11 @@ const CardSearch = () => {
         setQuery(input);
     };
 
+    const resultText = !query || query.trim() === '' ? '' : 'No Results Found';
+
     return (
         <>
+            <p>Type (part of) the name of a card and click the button:</p>
             <div className="search-bar">
                 <input type="text" value={input} onChange={onChange} />
                 <button onClick={onClick}>Search</button>
@@ -53,7 +56,7 @@ const CardSearch = () => {
             {
                 searchResults.length > 0 
                     ? <SearchResults data={searchResults} />
-                    : <p>No Results Found</p>
+                    : <p>{ resultText }</p>
             }
         </>
     );
