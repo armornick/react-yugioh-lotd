@@ -78,6 +78,11 @@ export default function Layout({ children }) {
                             <li><Link href="/">Elements</Link></li>
                         </ul>
                     </nav>
+                    <footer className={styles.footer}>
+                        <p className={styles.copyright}>
+                            Design: <a href="https://html5up.net/">HTML5 UP</a>
+                        </p>
+                    </footer>
                 </div>
             </div>
         </div>

@@ -235,6 +235,14 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
           right: -0.5em;
           top: 0; } }
 
+/* Footer */
+
+.footer .copyright {
+  color: #9fa3a6;
+  font-size: 0.9em; }
+  .footer .copyright a {
+    color: inherit; }
+
 /* Menu */
 
 .menu ul {
