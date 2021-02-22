@@ -1,27 +1,23 @@
 {
   "name": "lotd-card-db",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "gen-data:lotd": "node data/fetch-lotd-card-shop.js",
     "gen-data:link-evolution": "node data/fetch-link-evolution-card-shop.js",
-    "gen-data": "npm-run-all gen-data:*",
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
-  },
-  "author": "armornick",
-  "license": "CC0",
-  "devDependencies": {
-    "@babel/core": "^7.12.17",
-    "@babel/preset-react": "^7.12.13",
-    "axios": "^0.21.1",
-    "jsdom": "^16.4.0"
+    "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {
-    "lunr": "^2.3.9",
-    "milligram": "^1.4.1",
-    "npm-run-all": "^4.1.5",
-    "parcel-bundler": "^1.12.4",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0",
+    "npm-run-all": "^4.1.5"
   }
 }
