@@ -1,11 +1,45 @@
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import styles from '../styles/Layout.module.css';
 
 export default function Layout({ children }) {
     
+    const [checkedMq, setCheckedMq] = useState(false);
     const [sidebarActive, setSidebarActive] = useState(true);
+
+    useEffect(() => {
+
+        const mediaQuery = window.matchMedia('(max-width: 1280px)');
+        const checkBreakpoint = (e) => {
+            if (e.matches) {
+                if (sidebarActive) {
+                    setSidebarActive(false);
+                }
+            } else {
+                if (!sidebarActive) {
+                    setSidebarActive(true);
+                }
+            }
+        }
+
+        mediaQuery.addEventListener('change', checkBreakpoint);
+
+        /*
+            React reruns useEffect on every change so we have to
+            make sure we only run our first check once or the
+            sidebar stops working.
+        */
+        if (!checkedMq) {
+            checkBreakpoint(mediaQuery);
+            setCheckedMq(true);
+        }
+
+        return () => {
+            mediaQuery.removeEventListener('change', checkBreakpoint);
+        };
+
+    });
 
     const onToggleClick = (e) => {
         e.preventDefault();
@@ -35,7 +69,7 @@ export default function Layout({ children }) {
                 </a>
                 <div className={styles.inner}>
                     <nav className={styles.menu}>
-                        <header className={styles.major}>
+                        <header className="major">
                             <h2>Menu</h2>
                         </header>
                         <ul>
