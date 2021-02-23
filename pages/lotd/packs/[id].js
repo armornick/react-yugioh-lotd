@@ -25,6 +25,11 @@ export default function PackViewer({ pack }) {
             </Head>
             <h1>{pack.title}</h1>
             <p><strong>Cost:</strong> {pack.cost}DP</p>
+            {
+                pack.archetypes && pack.archetypes.length > 0
+                ? <p><strong>Archetypes:</strong> { pack.archetypes.join(', ') }</p>
+                : null
+            }
             { "Normal Monsters" in pack ? <CardList category="Normal Monsters" cards={pack["Normal Monsters"]} /> : null }
             { "Effect Monsters" in pack ? <CardList category="Effect Monsters" cards={pack["Effect Monsters"]} /> : null }
             { "Gemini monsters" in pack ? <CardList category="Gemini monsters" cards={pack["Gemini monsters"]} /> : null }

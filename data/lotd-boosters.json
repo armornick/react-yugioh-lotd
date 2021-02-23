@@ -279,7 +279,9 @@
       "White Hole",
       "Waboku"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Exodia"
+    ],
     "id": 0
   },
   "Mai Valentine": {
@@ -561,7 +563,11 @@
       "Torrential Tribute",
       "Wall of Disruption"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Harpie",
+      "Amazoness",
+      "Umi"
+    ],
     "id": 1
   },
   "Bakura": {
@@ -849,7 +855,12 @@
       "World Suppression",
       "Zoma the Spirit"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Archfiend",
+      "Hole",
+      "Infernoid",
+      "The Agent"
+    ],
     "id": 2
   },
   "Joey Wheeler": {
@@ -1134,7 +1145,11 @@
       "Time Machine",
       "Trap Dustshoot"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Mask",
+      "Red-Eyes",
+      "Koa'ki Meiru"
+    ],
     "id": 3
   },
   "Seto Kaiba": {
@@ -1407,7 +1422,12 @@
       "Widespread Ruin",
       "Windstorm of Etaqua"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Blue-Eyes",
+      "ABC",
+      "Gravekeeper's",
+      "Toon"
+    ],
     "id": 4
   },
   "Yugi": {
@@ -1690,7 +1710,13 @@
       "Tower of Babel",
       "Wall of Revealing Light"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Gaia The Fierce Knight",
+      "Dark Magician",
+      "Skull Servant",
+      "Sphinx",
+      "Guardian"
+    ],
     "id": 5
   },
   "Alexis Rhodes": {
@@ -1977,7 +2003,10 @@
       "The League of Uniform Nomenclature",
       "Zero Gravity"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Ancient Gear",
+      "Nekroz"
+    ],
     "id": 6
   },
   "Bastion Misawa": {
@@ -2258,7 +2287,13 @@
       "Vampire Takeover",
       "Volcanic Eruption"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Koala",
+      "Frog",
+      "Dark World",
+      "Monarch",
+      "Vampire"
+    ],
     "id": 7
   },
   "Chazz Princeton": {
@@ -2542,7 +2577,14 @@
       "Thunder of Ruler",
       "Tour of Doom"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Cloudian",
+      "D.D.",
+      "Ojama",
+      "Arcana Force",
+      "Dark Scorpion",
+      "Ritual Beast"
+    ],
     "id": 8
   },
   "Syrus Truesdale": {
@@ -2826,7 +2868,14 @@
       "Volcanic Recharge",
       "Wonder Garage"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Roid",
+      "Gladiator Beast",
+      "Volcanic",
+      "Cyber Dragon",
+      "B.E.S.",
+      "Duston"
+    ],
     "id": 9
   },
   "Jesse Anderson": {
@@ -3109,7 +3158,14 @@
       "Venom Burn",
       "W Nebula Meteorite"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Gem-",
+      "Venom",
+      "Charmer",
+      "Crystal Beast",
+      "Worm",
+      "Shaddoll"
+    ],
     "id": 10
   },
   "Jaden Yuki": {
@@ -3392,7 +3448,14 @@
       "Trap of Darkness",
       "Weed Out"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Elemental HERO",
+      "Chrysalis",
+      "Neo-Spacian",
+      "Destiny HERO",
+      "Evil HERO",
+      "Kuriboh"
+    ],
     "id": 11
   },
   "Tetsu Trudge": {
@@ -3677,7 +3740,12 @@
       "Vanity's Call",
       "Wiretap"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Alien",
+      "Six Samurai",
+      "Ice Barrier",
+      "Karakuri"
+    ],
     "id": 12
   },
   "Leo/Luna": {
@@ -3958,7 +4026,13 @@
       "Synchro Deflector",
       "Tuner's Scheme"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Machina",
+      "Dragunity",
+      "Genex",
+      "Jurrac",
+      "Morphtronic"
+    ],
     "id": 13
   },
   "Akiza Izinski": {
@@ -4245,7 +4319,12 @@
       "Whirlwind of Gusto",
       "Wicked Rebirth"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Lightsworn",
+      "Rose Dragon",
+      "Gusto",
+      "Reptilianne"
+    ],
     "id": 14
   },
   "Jack Atlas": {
@@ -4533,7 +4612,17 @@
       "Yang Zing Creation",
       "Yang Zing Unleashed"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Ally of Justice",
+      "Watt",
+      "Batteryman",
+      "Yang Zing",
+      "Resonator",
+      "Flamvell",
+      "Fortune Lady",
+      "Infernity",
+      "Archfiend"
+    ],
     "id": 15
   },
   "Crow": {
@@ -4818,7 +4907,15 @@
       "Solemn Authority",
       "The Golden Apples"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Mist Valley",
+      "Blackwing",
+      "Nordic",
+      "Fabled",
+      "Aesir",
+      "Laval",
+      "Naturia"
+    ],
     "id": 16
   },
   "Yusei Fudo": {
@@ -5105,7 +5202,14 @@
       "Wolf in Sheep's Clothing",
       "Zero Force"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Assault Mode",
+      "Earthbound",
+      "Junk",
+      "Malefic",
+      "Meklord",
+      "Stardust"
+    ],
     "id": 17
   },
   "Cathy Katherine": {
@@ -5385,7 +5489,17 @@
       "Ultimate Fire Formation - Seito",
       "Xing Zhen Hu"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Fire Fist",
+      "Bujin",
+      "Evolsaur",
+      "Evoltile",
+      "Fire King",
+      "Ghostrick",
+      "Hazy",
+      "Madolche",
+      "Fire Formation"
+    ],
     "id": 18
   },
   "Quinton": {
@@ -5666,7 +5780,15 @@
       "Zenmailstrom",
       "Zenmairch"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Ninja",
+      "Noble Knight",
+      "Artifact",
+      "Chronomaly",
+      "Gimmick Puppet",
+      "Mecha Phantom Beast",
+      "Wind-Up"
+    ],
     "id": 19
   },
   "Kite Tenjo": {
@@ -5955,7 +6077,17 @@
       "Variable Form",
       "Zekt Conversion"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Hieratic",
+      "Galaxy-Eyes",
+      "Geargia",
+      "Heraldic",
+      "Heroic",
+      "Inzektor",
+      "Photon",
+      "Steelswarm",
+      "Umbral Horror"
+    ],
     "id": 20
   },
   "Shark": {
@@ -6237,7 +6369,14 @@
       "Vain Betrayer",
       "Xyz Dimension Splash"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Atlantean",
+      "Penguin",
+      "Battlin' Boxer",
+      "Gishki",
+      "Mermail",
+      "Shark"
+    ],
     "id": 21
   },
   "Yuma Tsukumo": {
@@ -6517,7 +6656,13 @@
       "Xyz Wrath",
       "Xyz Xtreme !!"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Spellbook",
+      "Dododo",
+      "Gagaga",
+      "Gogogo",
+      "Utopia"
+    ],
     "id": 22
   },
   "Pendulum": {
@@ -6811,7 +6956,16 @@
       "Unbreakable Spirit",
       "Yosenjus' Secret Move"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Burning Abyss",
+      "Herald",
+      "Performapal",
+      "Scrap",
+      "Sylvan",
+      "U.A.",
+      "Yosenju",
+      "Qli"
+    ],
     "id": 23
   },
   "Gong Strong": {
@@ -7072,7 +7226,18 @@
       "Stardust Re-Spark",
       "Storming Mirror Force"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Blackwing",
+      "Destruction Sword",
+      "Blue-Eyes",
+      "Junk",
+      "Odd-Eyes",
+      "Performapal",
+      "Shiranui",
+      "Superheavy",
+      "Amorphage",
+      "Dracoslayer"
+    ],
     "id": 24
   },
   "Zuzu Boyle": {
@@ -7322,7 +7487,18 @@
       "Ultimate Providence",
       "Wonder Xyz"
     ],
-    "archetypes": [],
+    "archetypes": [
+      "Monarch",
+      "Aquaactress",
+      "Burning Abyss",
+      "Digital Bug",
+      "Edge Imp",
+      "Infernoid",
+      "Melodious",
+      "Super Quant",
+      "Phantom Knights",
+      "U.A."
+    ],
     "id": 25
   }
 }

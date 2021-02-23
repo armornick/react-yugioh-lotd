@@ -109,7 +109,7 @@ class DecklistParser {
         this.parseCardList(result, backrows, archetypes);
 
         const archetypeList = Object.keys(archetypes);
-        result.archetypes = archetypeList.filter(archetype => archetypeList[archetype] > 5);
+        result.archetypes = archetypeList.filter(archetype => archetypes[archetype] > 5);
 
         return result;
     }
