@@ -28,6 +28,55 @@ const CARD_TYPES = {
     "Spell Card":"Spells","Trap Card":"Traps",
 };
 
+// some cards had their names changed
+const CHANGED_CARD_NAMES = {
+    "Goblin Marauding Force": "Goblin Marauding Squad",
+    "Nurse Reficule the Fallen One": "Darklord Nurse Reficule",
+    "Red-Eyes B. Chick": "Black Dragon's Chick",
+    "Judgement of Anubis": "Judgment of Anubis",
+    "Winged Dragon, Guardian of the Fortress": "Winged Dragon, Guardian of the Fortress #1",
+    "Attack the Moon": "Attack the Moon!",
+    "Judgment of Pharaoh": "Judgment of the Pharaoh",
+    "Marie the Fallen One": "Darklord Marie",
+    "Frog the Jam": "Slime Toad",
+    "Null and Void": "Muko",
+    "Twin Long Rods #1": "Twin Long Rods 1",
+    "Red-Eyes B. Dragon": "Red-Eyes Black Dragon",
+    "Malefic Red-Eyes B. Dragon": "Malefic Red-Eyes Black Dragon",
+    "Cú Chulainn the Awakened": "Cu Chulainn the Awakened",
+    "B. Skull Dragon": "Black Skull Dragon",
+    "Meteor B. Dragon": "Meteor Black Dragon",
+    "Angel 07": "Angel O7",
+    "Beast Machine King Barbaros Ür": "Beast Machine King Barbaros Ur",
+    "Big Core": "B.E.S. Big Core",
+    "Falchionβ": "Falchion Beta",
+    "Fiendish Engine Ω": "Fiendish Engine Omega",
+    "Shredder": "Shreddder",
+    "Crystal Counter": "Counter Gem",
+    "Armityle the Chaos Phantom": "Armityle the Chaos Phantasm",
+    "Temple of the Six Samurai": "Temple of the Six",
+    "Dryad": "Doriado",
+    "Machine Lord Ür": "Machine Lord Ur",
+    "Necrolancer the Timelord": "Necrolancer the Time-lord",
+    "Chirubimé, Princess of Autumn Leaves": "Chirubime, Princess of Autumn Leaves",
+    "Mariña, Princess of Sunflowers": "Marina, Princess of Sunflowers",
+    "Metaphysical Regeneration": "Supernatural Regeneration",
+    "Infernity Bishop": "Infernity Patriarch",
+    "Spell Reactor・RE": "Spell Reactor RE",
+    "Summon Reactor・SK": "Summon Reactor SK",
+    "Trap Reactor・Y FI": "Trap Reactor Y FI",
+    "Earthbound Revival": "Earthbound Immortal Revival",
+    "Roar of the Earthbound": "Roar of the Earthbound Immortal",
+    "Damage Vaccine Ω MAX": "Damage Vaccine Omega MAX",
+    "Full Force Strike": "Full-Force Strike",
+    "Mystical Sheep 1": "Mystical Sheep #1",
+    "Mystical Sheep 2": "Mystical Sheep #2",
+    "Gigarays Gandora the Dragon of Destruction": "Gandora Giga Rays the Dragon of Destruction",
+    "Fire Opal Head": "Fire Opalhead",
+    "Number F0: Utopic Future Slash": "Number F0: Utopic Future - Future Slash",
+    "Seraphim Papillion": "Seraphim Papillon",
+};
+
 const mkdirIfNotExists = (directory) => {
     if (!existsSync(directory)) {
         mkdirSync(directory);
@@ -89,15 +138,14 @@ const main = async () => {
                         if (firstChild && firstChild.tagName !== 'TH') {
 
                             let cardTitle = RE_CARD_TITLE.exec( firstChild.textContent.trim() )[1];
-                            let card = cardDb.find(card => card.name == cardTitle);
+                            let trueName = cardTitle;
+                            if (trueName in CHANGED_CARD_NAMES) {
+                                trueName = CHANGED_CARD_NAMES[cardTitle];
+                            }
+                            let card = cardDb.find(card => card.name.toUpperCase() == trueName.toUpperCase() );
                             if (!card) {
-                                card = cardDb.find(card => card.name.toUpperCase() == cardTitle.toUpperCase() );
-                                if (card) {
-                                    cardTitle = card.name;
-                                } else {
-                                    console.log(`could not find card "${cardTitle}"`);
-                                    continue;
-                                }
+                                console.log(`could not find card "${cardTitle}"`);
+                                continue;
                             }
                             const cardType = CARD_TYPES[ card.type ];
                             if (card.archetype) {
@@ -115,17 +163,9 @@ const main = async () => {
         }
 
         // find archetypes that booster pack is dedicated to
-        const archetypeList = [];
         const foundArchetypes = Object.keys(archetypes);
-        for (let foundArchetype of foundArchetypes) {
-            if (archetypes[foundArchetype] > 5) { // arbitrary minimum
-                archetypeList.push(foundArchetype);
-            }
-        }
-        if (archetypeList.length > 1) {
-            data.archetypes = archetypeList;
-        }
-
+        data.archetypes = foundArchetypes.filter(archetype => archetypes[archetype] > 5);
+        
         result[ title ] = data;
     }
 
