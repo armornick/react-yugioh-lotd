@@ -1,7 +1,18 @@
 
 import Head from 'next/head';
+import Link from 'next/link';
 import Layout from '../../components/layout';
 
+
+const PackListItem = ({ pack }) => {
+    return (
+        <li>
+            <Link href={`/lotd/packs/${pack.id}`}>
+                {pack.name}
+            </Link>
+        </li>
+    );
+}
 
 export default function PackList({ packs }) {
 
@@ -15,7 +26,7 @@ export default function PackList({ packs }) {
             <ul>
                 {
                     packs.map(pack => 
-                        <li key={pack.id}>{pack.name}</li>
+                        <PackListItem key={pack.id} pack={pack} />
                     )
                 }
             </ul>
