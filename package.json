@@ -11,6 +11,7 @@
     "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {
+    "lunr": "^2.3.9",
     "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1"

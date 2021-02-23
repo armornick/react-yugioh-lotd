@@ -1,6 +1,7 @@
 
 const { writeFileSync, existsSync, mkdirSync } = require('fs');
 const { JSDOM } = require('jsdom');
+const lunr = require('lunr');
 const DecklistParser = require('./decklist-parser');
 const Downloader = require('./axios-downloader');
 
@@ -8,6 +9,7 @@ const CACHE_DIR = '.cache';
 const OUTPUT_DIR = 'data';
 const OUTPUT_FNAME = 'lotd-boosters.json';
 const OUTPUT_FNAME2 = 'lotd-cards.json';
+const OUTPUT_FNAME3 = 'lotd-search-index.json';
 
 const CARD_TYPES = {
     "Normal Monsters":"Normal Monster", "Effect Monsters":"Effect Monster",
@@ -64,6 +66,7 @@ const main = async () => {
                 const cards = pack[cardType];
                 for (const card of cards) {
                     cardMap[card] = {
+                        name: card,
                         cardType: CARD_TYPES[cardType], pack: packName,
                     };
                 }
@@ -76,6 +79,17 @@ const main = async () => {
 
     console.log(`writing ${OUTPUT_FNAME2}`);
     writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME2}`, JSON.stringify(cardMap, null, 2));
+
+    const lunrIndex = lunr(function () {
+        this.ref('name');
+        this.field('name');
+
+        const cardNames = Object.keys(cardMap);
+        cardNames.map(card => this.add(cardMap[card]));
+    });
+
+    console.log(`writing ${OUTPUT_FNAME3}`);
+    writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME3}`, JSON.stringify(lunrIndex));
 
 };
 
