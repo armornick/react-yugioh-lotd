@@ -1,6 +1,6 @@
 
 import Head from 'next/head';
-import Layout from '../../../components/layout';
+import Layout from '@/components/layout';
 
 
 export default function PackViewer({ pack }) {
@@ -18,7 +18,7 @@ export default function PackViewer({ pack }) {
 }
 
 export async function getStaticPaths() {
-    const data = await import('../../../data/lotd-boosters.json');
+    const data = await import('data/lotd-boosters.json');
     let packs = Object.keys(data);
 
     const paths = packs.map(pack => ({
@@ -29,7 +29,7 @@ export async function getStaticPaths() {
 };
 
 export async function getStaticProps({ params }) {
-    const data = await import('../../../data/lotd-boosters.json');
+    const data = await import('data/lotd-boosters.json');
     const packNames = Object.keys(data);
 
     for (let packName of packNames) {

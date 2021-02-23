@@ -2,9 +2,9 @@
 import { useState, useEffect } from 'react';
 import lunr from 'lunr';
 import Head from 'next/head';
-import { useCardSearch } from '../../hooks/use-card-search';
-import Layout from '../../components/layout';
-import styles from '../../styles/Search.module.css';
+import { useCardSearch } from '@/hooks/use-card-search';
+import Layout from '@/components/layout';
+import styles from '@/styles/Search.module.css';
 
 const SearchResultList = ({ results }) => {
     return (
