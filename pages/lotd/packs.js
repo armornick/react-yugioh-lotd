@@ -1,21 +1,9 @@
 
-import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Layout from '../../components/layout';
 
 
-export default function PackList() {
-
-    const [packs, setPacks] = useState([]);
-
-    useEffect(() => {
-        import('../../data/lotd-boosters.json')
-            .then(data => {
-                let packNames = Object.keys(data);
-                packNames = packNames.filter(item => item !== 'default');
-                setPacks(packNames);
-            });
-    });
+export default function PackList({ packs }) {
 
     return (
         <Layout>
@@ -34,3 +22,16 @@ export default function PackList() {
         </Layout>
     );
 }
+
+
+export async function getStaticProps() {
+    const data = await import('../../data/lotd-boosters.json');
+    let packNames = Object.keys(data);
+    packNames = packNames.filter(item => item !== 'default');
+    return {
+        props: {
+            packs: packNames
+        }
+    };
+}
+
