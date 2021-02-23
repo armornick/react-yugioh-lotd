@@ -4,16 +4,30 @@ import lunr from 'lunr';
 import Head from 'next/head';
 import { useCardSearch } from '../../hooks/use-card-search';
 import Layout from '../../components/layout';
+import styles from '../../styles/Search.module.css';
 
 const SearchResultList = ({ results }) => {
     return (
-        <ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Pack</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody>
             {
                 results.map(result => 
-                    <li key={result.id}>{result.name}</li>
+                    <tr key={result.name}>
+                        <td>{result.name}</td>
+                        <td>{result.pack}</td>
+                        <td>{result.cardType}</td>
+                    </tr>
                 )
             }
-        </ul>
+            </tbody>
+        </table>
     );
 }
 
@@ -41,7 +55,7 @@ export default function CardSearch({ searchIndexRaw, cardMap }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <h1>LotD Card Search</h1>
-            <div>
+            <div className={styles.search}>
                 <input type="text" value={input} onChange={onChange} />
                 <button onClick={onClick}>Search</button>
             </div>
