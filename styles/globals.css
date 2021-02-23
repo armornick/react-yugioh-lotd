@@ -1832,3 +1832,44 @@ button,
           margin-bottom: 0; }
           .posts article:last-child:after {
             display: none; } }
+
+
+/* -----------------------------------------------------------
+    Custom Styles
+*/
+
+.colums-3 {
+  column-count: 3;
+  column-width: 15rem;
+}
+
+details.accordion {
+  color: #000;
+  background-color: #f1f1f1;
+  display: block;
+  width: 100%;
+}
+
+details.accordion > * {
+  padding: 8px 16px;
+}
+
+details.accordion > summary {
+  list-style: none;
+  user-select: none;
+}
+
+details.accordion > summary:hover {
+  color: #000;
+  background-color: #ccc;
+}
+
+details.accordion > ul {
+  margin: 0;
+  padding: 1rem 2rem;
+}
+
+details.accordion > li {
+  padding: 1rem;
+}
+

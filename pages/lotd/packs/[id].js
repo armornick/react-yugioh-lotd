@@ -2,9 +2,21 @@
 import Head from 'next/head';
 import Layout from '@/components/layout';
 
+const CardList = ({ category, cards }) => {
+    return (
+        <details className="accordion">
+            <summary>{category}</summary>
+            <ul className="colums-3">
+            {
+                cards.map(card => <li key={card}>{card}</li>)
+            }
+            </ul>
+        </details>
+    );
+}
 
 export default function PackViewer({ pack }) {
-    
+
     return (
         <Layout>
             <Head>
@@ -13,6 +25,20 @@ export default function PackViewer({ pack }) {
             </Head>
             <h1>{pack.title}</h1>
             <p><strong>Cost:</strong> {pack.cost}DP</p>
+            { "Normal Monsters" in pack ? <CardList category="Normal Monsters" cards={pack["Normal Monsters"]} /> : null }
+            { "Effect Monsters" in pack ? <CardList category="Effect Monsters" cards={pack["Effect Monsters"]} /> : null }
+            { "Gemini monsters" in pack ? <CardList category="Gemini monsters" cards={pack["Gemini monsters"]} /> : null }
+            { "Spirit monsters" in pack ? <CardList category="Spirit monsters" cards={pack["Spirit monsters"]} /> : null }
+            { "Toon monsters" in pack ? <CardList category="Toon monsters" cards={pack["Toon monsters"]} /> : null }
+            { "Union monsters" in pack ? <CardList category="Union monsters" cards={pack["Union monsters"]} /> : null }
+            { "Tuner monsters" in pack ? <CardList category="Tuner monsters" cards={pack["Tuner monsters"]} /> : null }
+            { "Pendulum Monsters" in pack ? <CardList category="Pendulum Monsters" cards={pack["Pendulum Monsters"]} /> : null }
+            { "Ritual Monsters" in pack ? <CardList category="Ritual Monsters" cards={pack["Ritual Monsters"]} /> : null }
+            { "Fusion Monsters" in pack ? <CardList category="Fusion Monsters" cards={pack["Fusion Monsters"]} /> : null }
+            { "Synchro Monsters" in pack ? <CardList category="Synchro Monsters" cards={pack["Synchro Monsters"]} /> : null }
+            { "Xyz Monsters" in pack ? <CardList category="Xyz Monsters" cards={pack["Xyz Monsters"]} /> : null }
+            { "Spells" in pack ? <CardList category="Spells" cards={pack["Spells"]} /> : null }
+            { "Traps" in pack ? <CardList category="Traps" cards={pack["Traps"]} /> : null }
         </Layout>
     );
 }
