@@ -278,7 +278,8 @@
       "Vanity's Emptiness",
       "White Hole",
       "Waboku"
-    ]
+    ],
+    "id": 0
   },
   "Mai Valentine": {
     "title": "Mai Valentine",
@@ -558,7 +559,8 @@
       "Torrential Reborn",
       "Torrential Tribute",
       "Wall of Disruption"
-    ]
+    ],
+    "id": 1
   },
   "Bakura": {
     "title": "Bakura",
@@ -844,7 +846,8 @@
       "Void Launch",
       "World Suppression",
       "Zoma the Spirit"
-    ]
+    ],
+    "id": 2
   },
   "Joey Wheeler": {
     "title": "Joey Wheeler",
@@ -1127,7 +1130,8 @@
       "The Eye of Truth",
       "Time Machine",
       "Trap Dustshoot"
-    ]
+    ],
+    "id": 3
   },
   "Seto Kaiba": {
     "title": "Seto Kaiba",
@@ -1398,7 +1402,8 @@
       "Virus Cannon",
       "Widespread Ruin",
       "Windstorm of Etaqua"
-    ]
+    ],
+    "id": 4
   },
   "Yugi": {
     "title": "Yugi",
@@ -1679,7 +1684,8 @@
       "The First Sarcophagus",
       "Tower of Babel",
       "Wall of Revealing Light"
-    ]
+    ],
+    "id": 5
   },
   "Alexis Rhodes": {
     "title": "Alexis Rhodes",
@@ -1964,7 +1970,8 @@
       "Synthetic Seraphim",
       "The League of Uniform Nomenclature",
       "Zero Gravity"
-    ]
+    ],
+    "id": 6
   },
   "Bastion Misawa": {
     "title": "Bastion Misawa",
@@ -2243,7 +2250,8 @@
       "Trap Reclamation",
       "Vampire Takeover",
       "Volcanic Eruption"
-    ]
+    ],
+    "id": 7
   },
   "Chazz Princeton": {
     "title": "Chazz Princeton",
@@ -2525,7 +2533,8 @@
       "Treaty on Uniform Nomenclature",
       "Thunder of Ruler",
       "Tour of Doom"
-    ]
+    ],
+    "id": 8
   },
   "Syrus Truesdale": {
     "title": "Syrus Truesdale",
@@ -2807,7 +2816,8 @@
       "Updraft",
       "Volcanic Recharge",
       "Wonder Garage"
-    ]
+    ],
+    "id": 9
   },
   "Jesse Anderson": {
     "title": "Jesse Anderson",
@@ -3088,7 +3098,8 @@
       "Unpossessed",
       "Venom Burn",
       "W Nebula Meteorite"
-    ]
+    ],
+    "id": 10
   },
   "Jaden Yuki": {
     "title": "Jaden Yuki",
@@ -3369,7 +3380,8 @@
       "The Selection",
       "Trap of Darkness",
       "Weed Out"
-    ]
+    ],
+    "id": 11
   },
   "Tetsu Trudge": {
     "title": "Tetsu Trudge",
@@ -3652,7 +3664,8 @@
       "Trojan Blast",
       "Vanity's Call",
       "Wiretap"
-    ]
+    ],
+    "id": 12
   },
   "Leo/Luna": {
     "title": "Leo/Luna",
@@ -3931,7 +3944,8 @@
       "Spacegate",
       "Synchro Deflector",
       "Tuner's Scheme"
-    ]
+    ],
+    "id": 13
   },
   "Akiza Izinski": {
     "title": "Akiza Izinski",
@@ -4216,7 +4230,8 @@
       "Wall of Thorns",
       "Whirlwind of Gusto",
       "Wicked Rebirth"
-    ]
+    ],
+    "id": 14
   },
   "Jack Atlas": {
     "title": "Jack Atlas",
@@ -4502,7 +4517,8 @@
       "Yang Zing Brutality",
       "Yang Zing Creation",
       "Yang Zing Unleashed"
-    ]
+    ],
+    "id": 15
   },
   "Crow": {
     "title": "Crow",
@@ -4785,7 +4801,8 @@
       "Skill Successor",
       "Solemn Authority",
       "The Golden Apples"
-    ]
+    ],
+    "id": 16
   },
   "Yusei Fudo": {
     "title": "Yusei Fudo",
@@ -5070,7 +5087,8 @@
       "Wild Tornado",
       "Wolf in Sheep's Clothing",
       "Zero Force"
-    ]
+    ],
+    "id": 17
   },
   "Cathy Katherine": {
     "title": "Cathy Katherine",
@@ -5348,7 +5366,8 @@
       "Spiritual Light Art - Hijiri",
       "Ultimate Fire Formation - Seito",
       "Xing Zhen Hu"
-    ]
+    ],
+    "id": 18
   },
   "Quinton": {
     "title": "Quinton",
@@ -5627,7 +5646,8 @@
       "Zenmaiday",
       "Zenmailstrom",
       "Zenmairch"
-    ]
+    ],
+    "id": 19
   },
   "Kite Tenjo": {
     "title": "Kite Tenjo",
@@ -5914,7 +5934,8 @@
       "Tachyon Chaos Hole",
       "Variable Form",
       "Zekt Conversion"
-    ]
+    ],
+    "id": 20
   },
   "Shark": {
     "title": "Shark",
@@ -6194,7 +6215,8 @@
       "Underworld Egg Clutch",
       "Vain Betrayer",
       "Xyz Dimension Splash"
-    ]
+    ],
+    "id": 21
   },
   "Yuma Tsukumo": {
     "title": "Yuma Tsukumo",
@@ -6472,7 +6494,8 @@
       "Xyz Veil",
       "Xyz Wrath",
       "Xyz Xtreme !!"
-    ]
+    ],
+    "id": 22
   },
   "Pendulum": {
     "title": "Pendulum",
@@ -6764,7 +6787,8 @@
       "Typhoon",
       "Unbreakable Spirit",
       "Yosenjus' Secret Move"
-    ]
+    ],
+    "id": 23
   },
   "Gong Strong": {
     "title": "Gong Strong",
@@ -7023,7 +7047,8 @@
       "Solemn Strike",
       "Stardust Re-Spark",
       "Storming Mirror Force"
-    ]
+    ],
+    "id": 24
   },
   "Zuzu Boyle": {
     "title": "Zuzu Boyle",
@@ -7271,6 +7296,7 @@
       "U.A. Penalty Box",
       "Ultimate Providence",
       "Wonder Xyz"
-    ]
+    ],
+    "id": 25
   }
 }

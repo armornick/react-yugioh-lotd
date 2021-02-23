@@ -57,7 +57,7 @@ const main = async () => {
         const pack = result[packName];
         const cardTypes = Object.keys(pack);
         for (const cardType of cardTypes) {
-            if (cardType == 'title' || cardType == 'cost') {
+            if (cardType == 'title' || cardType == 'cost' || cardType == 'id') {
                 continue;
             }
             if (cardType in CARD_TYPES) {

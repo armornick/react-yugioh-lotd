@@ -15,7 +15,7 @@ export default function PackList({ packs }) {
             <ul>
                 {
                     packs.map(pack => 
-                        <li key={pack}>{pack}</li>
+                        <li key={pack.id}>{pack.name}</li>
                     )
                 }
             </ul>
@@ -26,12 +26,12 @@ export default function PackList({ packs }) {
 
 export async function getStaticProps() {
     const data = await import('../../data/lotd-boosters.json');
-    let packNames = Object.keys(data);
-    packNames = packNames.filter(item => item !== 'default');
+    let packs = Object.keys(data);
+    packs = packs.filter(item => item !== 'default');
+    packs = packs.map(pack => ({ name: pack, id: data[pack].id }));
+
     return {
-        props: {
-            packs: packNames
-        }
+        props: { packs }
     };
 }
 

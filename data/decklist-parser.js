@@ -53,9 +53,11 @@ class DecklistParser {
     parseAll(deckLists) {
         const result = {};
 
+        let i = 0;
         for (let decklist of deckLists) {
             const data = this.parse(decklist);
             if (!this.shouldAdd || this.shouldAdd(data)) {
+                data.id = i++;
                 result[ data.title ] = data;
             }
         }
