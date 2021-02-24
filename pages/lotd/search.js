@@ -1,10 +1,11 @@
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import lunr from 'lunr';
 import Head from 'next/head';
 import { useCardSearch } from '@/hooks/use-card-search';
 import Layout from '@/components/layout';
-import styles from '@/styles/Search.module.css';
+import SearchBox from '@/components/search-box';
+
 
 const SearchResultList = ({ results }) => {
     return (
@@ -33,18 +34,12 @@ const SearchResultList = ({ results }) => {
 
 export default function CardSearch({ searchIndexRaw, cardMap }) {
     
-    const [input, setInput] = useState('');
     const [query, setQuery] = useState('');
 
     const searchIndex = lunr.Index.load(JSON.parse(searchIndexRaw));
     const searchResults = useCardSearch(query, searchIndex, cardMap);
 
-    const onChange = (e) => {
-        setInput(e.target.value);
-    };
-
-    const onClick = (e) => {
-        e.preventDefault();
+    const onClick = (input) => {
         setQuery(input);
     };
 
@@ -55,10 +50,7 @@ export default function CardSearch({ searchIndexRaw, cardMap }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <h1>LotD Card Search</h1>
-            <div className={styles.search}>
-                <input type="text" value={input} onChange={onChange} />
-                <button onClick={onClick}>Search</button>
-            </div>
+            <SearchBox onSearch={onClick} />
             {
                 searchResults.length > 0
                 ? <SearchResultList results={searchResults} />

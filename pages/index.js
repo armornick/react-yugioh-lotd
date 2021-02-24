@@ -19,6 +19,12 @@ export default function Home() {
         <li> <Link href="/lotd/packs">Booster Packs</Link> </li>
         <li> <Link href="/lotd/search">Card Search</Link> </li>
       </nav>
+
+      <h2>Legacy of the Duelist: Link Evolution</h2>
+      <nav>
+        <li> <Link href="/link-evolution/packs">Booster Packs</Link> </li>
+        <li> <Link href="/link-evolution/search">Card Search</Link> </li>
+      </nav>
     </Layout>
   )
 }

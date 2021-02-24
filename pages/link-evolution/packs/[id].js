@@ -24,7 +24,7 @@ export default function PackViewer({ pack }) {
     return (
         <Layout>
             <Head>
-                <title>{pack.title} Pack - Legacy of the Duelist</title>
+                <title>{pack.title} - Link Evolution</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <dvi className="row">
