@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "gen-data:lotd": "node scripts/fetch-lotd-card-shop.js",
     "gen-data:link-evolution": "node scripts/fetch-link-evolution-card-shop.js",
