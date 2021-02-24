@@ -117,6 +117,7 @@ const main = async () => {
     const dom = new JSDOM(response);
     const document = dom.window.document;
 
+    let id = 0;
     const links = getCardPackLinks(document);
     for (const link of links) {
         const packPage = await dl.download( makePackFileName(link), makeCompleteUrl(link));
@@ -166,6 +167,8 @@ const main = async () => {
         const foundArchetypes = Object.keys(archetypes);
         data.archetypes = foundArchetypes.filter(archetype => archetypes[archetype] > 5);
         
+        data.id = id++;
+        data.title = title.replace(/ pack$/, '');
         result[ title ] = data;
     }
 

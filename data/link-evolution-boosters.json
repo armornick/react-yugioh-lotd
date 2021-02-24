@@ -329,7 +329,9 @@
     "archetypes": [
       "Gravekeeper's",
       "Exodia"
-    ]
+    ],
+    "id": 0,
+    "title": "Grandpa Muto"
   },
   "Mai Valentine pack": {
     "Spells": [
@@ -665,7 +667,9 @@
       "Amazoness",
       "Harpie",
       "Guardian"
-    ]
+    ],
+    "id": 1,
+    "title": "Mai Valentine"
   },
   "Bakura pack": {
     "Effect Monsters": [
@@ -1006,7 +1010,9 @@
       "Toon",
       "Spirit Message",
       "The Agent"
-    ]
+    ],
+    "id": 2,
+    "title": "Bakura"
   },
   "Joey Wheeler pack": {
     "Spells": [
@@ -1348,7 +1354,9 @@
       "Demise",
       "Mask",
       "Djinn"
-    ]
+    ],
+    "id": 3,
+    "title": "Joey Wheeler"
   },
   "Seto Kaiba pack": {
     "Spells": [
@@ -1694,7 +1702,9 @@
       "Herald",
       "Golden Castle of Stromberg",
       "Thunder Dragon"
-    ]
+    ],
+    "id": 4,
+    "title": "Seto Kaiba"
   },
   "Yugi pack": {
     "Effect Monsters": [
@@ -2044,7 +2054,9 @@
       "Kuriboh",
       "Skull Servant",
       "Silent Swordsman"
-    ]
+    ],
+    "id": 5,
+    "title": "Yugi"
   },
   "Alexis Rhodes pack": {
     "Traps": [
@@ -2386,7 +2398,9 @@
       "Nekroz",
       "Angel",
       "Dark Scorpion"
-    ]
+    ],
+    "id": 6,
+    "title": "Alexis Rhodes"
   },
   "Bastion Misawa pack": {
     "Spells": [
@@ -2731,7 +2745,9 @@
       "Dinowrestler",
       "Elementsaber",
       "Elemental Lord"
-    ]
+    ],
+    "id": 7,
+    "title": "Bastion Misawa"
   },
   "Chazz Princeton pack": {
     "Effect Monsters": [
@@ -3078,7 +3094,9 @@
       "Ojama",
       "Prank-Kids",
       "Shinobird"
-    ]
+    ],
+    "id": 8,
+    "title": "Chazz Princeton"
   },
   "Syrus Truesdale pack": {
     "Spells": [
@@ -3419,7 +3437,9 @@
       "Cyberdark",
       "Ritual Beast",
       "Volcanic"
-    ]
+    ],
+    "id": 9,
+    "title": "Syrus Truesdale"
   },
   "Jesse Anderson pack": {
     "Effect Monsters": [
@@ -3761,7 +3781,9 @@
       "Koa'ki Meiru",
       "Shaddoll",
       "Worm"
-    ]
+    ],
+    "id": 10,
+    "title": "Jesse Anderson"
   },
   "Jaden Yuki pack": {
     "Traps": [
@@ -4100,7 +4122,9 @@
       "Neo-Spacian",
       "Evil HERO",
       "Masked HERO"
-    ]
+    ],
+    "id": 11,
+    "title": "Jaden Yuki"
   },
   "Tetsu Trudge pack": {
     "Spells": [
@@ -4450,7 +4474,9 @@
       "Karakuri",
       "Secret Six Samurai",
       "U.A."
-    ]
+    ],
+    "id": 12,
+    "title": "Tetsu Trudge"
   },
   "Leo/Luna pack": {
     "Normal Monsters": [
@@ -4794,7 +4820,9 @@
       "Phantasm Spiral",
       "Symphonic Warrior",
       "Vylon"
-    ]
+    ],
+    "id": 13,
+    "title": "Leo/Luna"
   },
   "Akiza Izinksi pack": {
     "Normal Monsters": [
@@ -5138,7 +5166,9 @@
       "Gusto",
       "Timelord",
       "Reptilianne"
-    ]
+    ],
+    "id": 14,
+    "title": "Akiza Izinksi"
   },
   "Jack Atlas pack": {
     "Tuner monsters": [
@@ -5482,7 +5512,9 @@
       "Mayakashi",
       "Infernity",
       "Watt"
-    ]
+    ],
+    "id": 15,
+    "title": "Jack Atlas"
   },
   "Crow pack": {
     "Spells": [
@@ -5825,7 +5857,9 @@
       "Mist Valley",
       "Nordic",
       "Fabled"
-    ]
+    ],
+    "id": 16,
+    "title": "Crow"
   },
   "Yusei Fudo pack": {
     "Effect Monsters": [
@@ -6168,7 +6202,9 @@
       "Malefic",
       "Stardust",
       "T.G."
-    ]
+    ],
+    "id": 17,
+    "title": "Yusei Fudo"
   },
   "Cathy Katherine pack": {
     "Traps": [
@@ -6515,7 +6551,9 @@
       "Hazy",
       "Madolche",
       "Subterror"
-    ]
+    ],
+    "id": 18,
+    "title": "Cathy Katherine"
   },
   "Quinton pack": {
     "Effect Monsters": [
@@ -6856,7 +6894,9 @@
       "Gimmick Puppet",
       "Heroic",
       "Wind-Up"
-    ]
+    ],
+    "id": 19,
+    "title": "Quinton"
   },
   "Kite Tenjo pack": {
     "Spells": [
@@ -7208,7 +7248,9 @@
       "Infestation",
       "Hieratic",
       "Star Seraph"
-    ]
+    ],
+    "id": 20,
+    "title": "Kite Tenjo"
   },
   "Shark pack": {
     "Normal Monsters": [
@@ -7551,7 +7593,9 @@
       "Penguin",
       "Shark",
       "The Weather"
-    ]
+    ],
+    "id": 21,
+    "title": "Shark"
   },
   "Yuma Tsukumo pack": {
     "Effect Monsters": [
@@ -7887,7 +7931,9 @@
       "Gogogo",
       "Utopia",
       "Djinn"
-    ]
+    ],
+    "id": 22,
+    "title": "Yuma Tsukumo"
   },
   "Gong Strong pack": {
     "Tuner monsters": [
@@ -8240,7 +8286,9 @@
       "Shiranui",
       "Superheavy",
       "Triamid"
-    ]
+    ],
+    "id": 23,
+    "title": "Gong Strong"
   },
   "Zuzu Boyle pack": {
     "Spells": [
@@ -8591,7 +8639,9 @@
       "Metalfoes",
       "Predaplant",
       "Lunalight"
-    ]
+    ],
+    "id": 24,
+    "title": "Zuzu Boyle"
   },
   "Shay pack": {
     "Traps": [
@@ -8950,7 +9000,9 @@
       "Super Quant",
       "Traptrix",
       "Zoodiac"
-    ]
+    ],
+    "id": 25,
+    "title": "Shay"
   },
   "Declan Akaba pack": {
     "Pendulum Monsters": [
@@ -9305,7 +9357,9 @@
       "Qli",
       "Majespecter",
       "Yosenju"
-    ]
+    ],
+    "id": 26,
+    "title": "Declan Akaba"
   },
   "Yuya Sakaki pack": {
     "Pendulum Monsters": [
@@ -9653,7 +9707,9 @@
       "Performapal",
       "Odd-Eyes",
       "Supreme King"
-    ]
+    ],
+    "id": 27,
+    "title": "Yuya Sakaki"
   },
   "Playmaker pack": {
     "Spells": [
@@ -10005,7 +10061,9 @@
       "Salamangreat",
       "Trickstar",
       "World Legacy"
-    ]
+    ],
+    "id": 28,
+    "title": "Playmaker"
   },
   "Blue Angel pack": {
     "Spells": [
@@ -10270,7 +10328,9 @@
       "Marincess",
       "Megalith",
       "Trickstar"
-    ]
+    ],
+    "id": 29,
+    "title": "Blue Angel"
   },
   "Soulburner pack": {
     "Link Monsters": [
@@ -10535,7 +10595,9 @@
       "Yosenju",
       "Performapal",
       "Predaplant"
-    ]
+    ],
+    "id": 30,
+    "title": "Soulburner"
   },
   "Varis pack": {
     "Effect Monsters": [
@@ -10802,7 +10864,9 @@
       "Guardragon",
       "Noble Knight",
       "T.G."
-    ]
+    ],
+    "id": 31,
+    "title": "Varis"
   },
   "Ai pack": {
     "Spells": [
@@ -11067,6 +11131,8 @@
       "Infinitrack",
       "Time Thief",
       "Witchcrafter"
-    ]
+    ],
+    "id": 32,
+    "title": "Ai"
   }
 }
