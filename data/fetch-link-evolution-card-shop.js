@@ -1,11 +1,14 @@
 
 const { writeFileSync, existsSync, mkdirSync } = require('fs');
 const { JSDOM } = require('jsdom');
+const lunr = require('lunr');
 const Downloader = require('./axios-downloader');
 
 const CACHE_DIR = '.cache';
 const OUTPUT_DIR = 'data';
 const OUTPUT_FNAME = 'link-evolution-boosters.json';
+const OUTPUT_FNAME2 = 'link-evolution-cards.json';
+const OUTPUT_FNAME3 = 'link-evolution-search-index.json';
 
 const RE_CARD_TITLE = /^"(.+)"$/;
 
@@ -26,6 +29,16 @@ const CARD_TYPES = {
     "XYZ Monster":"Xyz Monsters","XYZ Pendulum Effect Monster":"Xyz Monsters",
     // spells and trap cards
     "Spell Card":"Spells","Trap Card":"Traps",
+};
+
+const SINGLE_CARD_TYPES = {
+    "Normal Monsters":"Normal Monster", "Effect Monsters":"Effect Monster",
+    "Spirit monsters":"Spirit monster","Union monsters":"Union monster",
+    "Tuner monsters":"Tuner monster","Gemini monsters":"Gemini monster",
+    "Toon monsters":"Toon monster","Pendulum Monsters":"Pendulum Monster",
+    "Ritual Monsters":"Ritual Monster","Fusion Monsters":"Fusion Monster",
+    "Synchro Monsters":"Synchro Monster","Xyz Monsters":"Xyz Monster",
+    "Link Monsters":"Link Monster","Spells":"Spell","Traps":"Trap",
 };
 
 // some cards had their names changed
@@ -174,6 +187,45 @@ const main = async () => {
 
     console.log(`writing ${OUTPUT_FNAME}`);
     writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME}`, JSON.stringify(result, null, 2));
+
+
+    const cardMap = {};
+    const packNames = Object.keys(result);
+    for (const packName of packNames) {
+        const pack = result[packName];
+        const cardTypes = Object.keys(pack);
+        for (const cardType of cardTypes) {
+            if (cardType == 'title' || cardType == 'id' || cardType == 'archetypes') {
+                continue;
+            }
+            if (cardType in SINGLE_CARD_TYPES) {
+                const cards = pack[cardType];
+                for (const card of cards) {
+                    cardMap[card] = {
+                        name: card,
+                        cardType: SINGLE_CARD_TYPES[cardType], pack: packName,
+                    };
+                }
+            }
+            else {
+                console.log(`unknown card type: ${cardType}`);
+            }
+        }
+    }
+
+    console.log(`writing ${OUTPUT_FNAME2}`);
+    writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME2}`, JSON.stringify(cardMap, null, 2));
+
+    const lunrIndex = lunr(function () {
+        this.ref('name');
+        this.field('name');
+
+        const cardNames = Object.keys(cardMap);
+        cardNames.map(card => this.add(cardMap[card]));
+    });
+
+    console.log(`writing ${OUTPUT_FNAME3}`);
+    writeFileSync(`${OUTPUT_DIR}/${OUTPUT_FNAME3}`, JSON.stringify(lunrIndex));
 
 };
 
