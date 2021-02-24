@@ -2,7 +2,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '@/components/layout';
-// import styles from '@/styles/Home.module.css';
+import Heading from '@/components/heading'
 
 export default function Home() {
   return (
@@ -14,13 +14,15 @@ export default function Home() {
 
       <p>Yu-Gi-Oh! is a trademark of Kazuki Takahashi, Shueisha, Konami Japan, etc. ©1996-2021. All rights reserved.</p>
 
-      <h2>Legacy of the Duelist</h2>
+      <Heading>Legacy of the Duelist</Heading>
       <nav>
         <li> <Link href="/lotd/packs">Booster Packs</Link> </li>
         <li> <Link href="/lotd/search">Card Search</Link> </li>
       </nav>
 
-      <h2>Legacy of the Duelist: Link Evolution</h2>
+      <hr />
+
+      <Heading>Legacy of the Duelist: Link Evolution</Heading>
       <nav>
         <li> <Link href="/link-evolution/packs">Booster Packs</Link> </li>
         <li> <Link href="/link-evolution/search">Card Search</Link> </li>
