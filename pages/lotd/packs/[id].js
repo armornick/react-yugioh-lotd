@@ -2,6 +2,10 @@
 import Head from 'next/head';
 import Layout from '@/components/layout';
 
+const getImageSlug = (packName) => {
+    return `lotd-${packName.toLowerCase().replace(/\s/g, '-')}.png`;
+};
+
 const CardList = ({ category, cards }) => {
     return (
         <details className="accordion">
@@ -23,13 +27,23 @@ export default function PackViewer({ pack }) {
                 <title>{pack.title} Pack - Legacy of the Duelist</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <h1>{pack.title}</h1>
-            <p><strong>Cost:</strong> {pack.cost}DP</p>
-            {
-                pack.archetypes && pack.archetypes.length > 0
-                ? <p><strong>Archetypes:</strong> { pack.archetypes.join(', ') }</p>
-                : null
-            }
+            <dvi className="row">
+                <div className="col-6 col-12-medium">
+                    <h1>{pack.title}</h1>
+                    <p><strong>Cost:</strong> {pack.cost}DP</p>
+                    {
+                        pack.archetypes && pack.archetypes.length > 0
+                        ? <p><strong>Archetypes:</strong> { pack.archetypes.join(', ') }</p>
+                        : null
+                    }
+                </div>
+                <div className="col-6 col-12-medium">
+                    <span className="image right">
+                        <img src={`/images/${getImageSlug(pack.title)}`} alt={`image of ${pack.title}`} />
+                    </span>
+                </div>
+            </dvi>
+            
             { "Normal Monsters" in pack ? <CardList category="Normal Monsters" cards={pack["Normal Monsters"]} /> : null }
             { "Effect Monsters" in pack ? <CardList category="Effect Monsters" cards={pack["Effect Monsters"]} /> : null }
             { "Gemini monsters" in pack ? <CardList category="Gemini monsters" cards={pack["Gemini monsters"]} /> : null }
