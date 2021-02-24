@@ -6,8 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "gen-data:lotd": "node data/fetch-lotd-card-shop.js",
-    "gen-data:link-evolution": "node data/fetch-link-evolution-card-shop.js",
+    "gen-data:lotd": "node scripts/fetch-lotd-card-shop.js",
+    "gen-data:link-evolution": "node scripts/fetch-link-evolution-card-shop.js",
     "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {
