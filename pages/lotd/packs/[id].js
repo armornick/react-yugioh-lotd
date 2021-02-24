@@ -65,6 +65,7 @@ export default function PackViewer({ pack }) {
 export async function getStaticPaths() {
     const data = await import('data/lotd-boosters.json');
     let packs = Object.keys(data);
+    packs = packs.filter(pack => packs[pack] != null && packs[pack].id != null );
 
     const paths = packs.map(pack => ({
         params: { id: String(data[pack].id) }
