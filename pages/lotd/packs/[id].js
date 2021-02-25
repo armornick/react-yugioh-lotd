@@ -1,23 +1,11 @@
 
 import Head from 'next/head';
 import Layout from '@/components/layout';
+import CardList from '@/components/card-list';
 
 const getImageSlug = (packName) => {
     return `lotd-${packName.toLowerCase().replace(/\s/g, '-')}.png`;
 };
-
-const CardList = ({ category, cards }) => {
-    return (
-        <details className="accordion">
-            <summary>{category}</summary>
-            <ul className="colums-3">
-            {
-                cards.map(card => <li key={card}>{card}</li>)
-            }
-            </ul>
-        </details>
-    );
-}
 
 export default function PackViewer({ pack }) {
 
