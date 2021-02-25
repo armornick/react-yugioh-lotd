@@ -9,6 +9,7 @@
     "start": "next start",
     "gen-data:lotd": "node scripts/fetch-lotd-card-shop.js",
     "gen-data:link-evolution": "node scripts/fetch-link-evolution-card-shop.js",
+    "gen-data:structure-decks": "node scripts/fetch-structure-decks.js",
     "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {

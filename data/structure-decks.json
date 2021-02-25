@@ -1,0 +1,3442 @@
+{
+  "Saga of Blue-Eyes White Dragon Structure Deck": {
+    "title": "Saga of Blue-Eyes White Dragon Structure Deck",
+    "slug": "saga-of-blue-eyes-white-dragon",
+    "url": "https://yugioh.fandom.com/wiki/Saga_of_Blue-Eyes_White_Dragon_Structure_Deck",
+    "description": "Saga of Blue-Eyes White Dragon Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the twenty-fifth Deck in the TCG's Structure Deck series, following Structure Deck: Onslaught of the Fire Kings. This deck is the TCG equivalent of Structure Deck: The Blue-Eyed Dragon's Thundering Descent in the OCG.",
+    "Cover card": [
+      "Blue-Eyes White Dragon",
+      "Azure-Eyes Silver Dragon"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "September 13, 2013",
+      "Europe": "September 13, 2013"
+    },
+    "cards": [
+      {
+        "code": "SDBE-EN001",
+        "Name": "Blue-Eyes White Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Normal Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN002",
+        "Name": "Rabidragon",
+        "Rarity": "Common",
+        "Category": "Normal Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN003",
+        "Name": "Alexandrite Dragon",
+        "Rarity": "Common",
+        "Category": "Normal Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN004",
+        "Name": "Luster Dragon",
+        "Rarity": "Common",
+        "Category": "Normal Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN005",
+        "Name": "Flamvell Guard",
+        "Rarity": "Common",
+        "Category": "Normal Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN006",
+        "Name": "Maiden with Eyes of Blue",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN007",
+        "Name": "Rider of the Storm Winds",
+        "Rarity": "Common",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN008",
+        "Name": "Darkstorm Dragon",
+        "Rarity": "Common",
+        "Category": "Gemini Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN009",
+        "Name": "Kaiser Glider",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN010",
+        "Name": "Hieratic Dragon of Tefnuit",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN011",
+        "Name": "Mirage Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN012",
+        "Name": "Divine Dragon Apocralyph",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN013",
+        "Name": "The White Stone of Legend",
+        "Rarity": "Common",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN014",
+        "Name": "Kaibaman",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN015",
+        "Name": "Herald of Creation",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN016",
+        "Name": "Kaiser Sea Horse",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN017",
+        "Name": "Honest",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN018",
+        "Name": "Shining Angel",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDBE-EN019",
+        "Name": "Dragon Shrine",
+        "Rarity": "Super Rare",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN020",
+        "Name": "Silver's Cry",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN021",
+        "Name": "Burst Stream of Destruction",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN022",
+        "Name": "Stamping Destruction",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN023",
+        "Name": "A Wingbeat of Giant Dragon",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN024",
+        "Name": "Trade-In",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN025",
+        "Name": "Cards of Consonance",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN026",
+        "Name": "White Elephant's Gift",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN027",
+        "Name": "One for One",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN028",
+        "Name": "Monster Reborn",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN029",
+        "Name": "Dragonic Tactics",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN030",
+        "Name": "Soul Exchange",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN031",
+        "Name": "Swords of Revealing Light",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN032",
+        "Name": "Enemy Controller",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN033",
+        "Name": "Castle of Dragon Souls",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN034",
+        "Name": "Fiendish Chain",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN035",
+        "Name": "Kunai with Chain",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN036",
+        "Name": "Damage Condenser",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN037",
+        "Name": "Call of the Haunted",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN038",
+        "Name": "Compulsory Evacuation Device",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN039",
+        "Name": "Champion's Vigilance",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDBE-EN040",
+        "Name": "Azure-Eyes Silver Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Synchro Monster",
+        "Qty": "1"
+      }
+    ]
+  },
+  "Cyber Dragon Revolution Structure Deck": {
+    "title": "Cyber Dragon Revolution Structure Deck",
+    "slug": "cyber-dragon-revolution",
+    "url": "https://yugioh.fandom.com/wiki/Cyber_Dragon_Revolution_Structure_Deck",
+    "description": "Cyber Dragon Revolution Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the twenty-sixth Deck in the TCG's Structure Deck series, following Saga of Blue-Eyes White Dragon Structure Deck. This Deck is the TCG equivalent of Structure Deck: Blitzkrieg of the Mechlight Dragons in the OCG.",
+    "Cover card": [
+      "Cyber Dragon Nova"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "February 7, 2014",
+      "Europe": "February 6, 2014"
+    },
+    "cards": [
+      {
+        "code": "SDCR-EN001",
+        "Name": "Cyber Dragon Core",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN002",
+        "Name": "Cyber Dragon Drei",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN003",
+        "Name": "Cyber Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDCR-EN004",
+        "Name": "Cyber Dragon Zwei",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDCR-EN005",
+        "Name": "Proto-Cyber Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDCR-EN006",
+        "Name": "Cyber Valley",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN007",
+        "Name": "Cyber Larva",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDCR-EN008",
+        "Name": "Cyber Phoenix",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN009",
+        "Name": "Cyber Dinosaur",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN010",
+        "Name": "Cyber Eltanin",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN011",
+        "Name": "Armored Cybern",
+        "Rarity": "Common",
+        "Category": "Union monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN012",
+        "Name": "Satellite Cannon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN013",
+        "Name": "Solar Wind Jammer",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN014",
+        "Name": "Jade Knight",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN015",
+        "Name": "Falchionβ",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN016",
+        "Name": "Reflect Bounder",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN017",
+        "Name": "The Light - Hex-Sealed Fusion",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN018",
+        "Name": "Shining Angel",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN019",
+        "Name": "Cyber Repair Plant",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN020",
+        "Name": "Evolution Burst",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN021",
+        "Name": "Super Polymerization",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN022",
+        "Name": "Power Bond",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN023",
+        "Name": "Limiter Removal",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN024",
+        "Name": "Megamorph",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN025",
+        "Name": "D.D.R. - Different Dimension Reincarnation",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN026",
+        "Name": "Mystical Space Typhoon",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN027",
+        "Name": "Light of Redemption",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN028",
+        "Name": "Machina Armored Unit",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN029",
+        "Name": "Cyber Network",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN030",
+        "Name": "Cybernetic Hidden Technology",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN031",
+        "Name": "Three of a Kind",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN032",
+        "Name": "Trap Stun",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN033",
+        "Name": "Dimensional Prison",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN034",
+        "Name": "Malevolent Catastrophe",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN035",
+        "Name": "Waboku",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN036",
+        "Name": "Call of the Haunted",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN037",
+        "Name": "Cyber Twin Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDCR-EN038",
+        "Name": "Cyber Dragon Nova",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Xyz Monster",
+        "Qty": "1"
+      }
+    ]
+  },
+  "Realm of Light Structure Deck": {
+    "title": "Realm of Light Structure Deck",
+    "slug": "realm-of-light",
+    "url": "https://yugioh.fandom.com/wiki/Realm_of_Light_Structure_Deck",
+    "description": "Realm of Light Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the twenty-seventh Deck in the TCG's Structure Deck series, following Cyber Dragon Revolution Structure Deck. This Deck is the TCG equivalent of the preconstructed Deck in Duelist Set: Version Lightlord Judgment in the OCG.",
+    "Cover card": [
+      "Michael, the Arch-Lightsworn"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "June 27, 2014",
+      "Europe": "June 27, 2014"
+    },
+    "cards": [
+      {
+        "code": "SDLI-EN001",
+        "Name": "Alexandrite Dragon",
+        "Rarity": "Common",
+        "Category": "Normal Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN002",
+        "Name": "Minerva, Lightsworn Maiden",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN003",
+        "Name": "Raiden, Hand of the Lightsworn",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN004",
+        "Name": "Judgment Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN005",
+        "Name": "Gragonith, Lightsworn Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN006",
+        "Name": "Celestia, Lightsworn Angel",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN007",
+        "Name": "Jain, Lightsworn Paladin",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDLI-EN008",
+        "Name": "Lyla, Lightsworn Sorceress",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDLI-EN009",
+        "Name": "Garoth, Lightsworn Warrior",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN010",
+        "Name": "Wulf, Lightsworn Beast",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN011",
+        "Name": "Ehren, Lightsworn Monk",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN012",
+        "Name": "Lumina, Lightsworn Summoner",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDLI-EN013",
+        "Name": "Aurkus, Lightsworn Druid",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN014",
+        "Name": "Shire, Lightsworn Spirit",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN015",
+        "Name": "Ryko, Lightsworn Hunter",
+        "Rarity": "Common",
+        "Category": "Flip monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDLI-EN016",
+        "Name": "Honest",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN017",
+        "Name": "Lightray Diabolos",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN018",
+        "Name": "Lightray Daedalus",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN019",
+        "Name": "Vylon Prism",
+        "Rarity": "Common",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN020",
+        "Name": "Fabled Raven",
+        "Rarity": "Common",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN021",
+        "Name": "The Fabled Cerburrel",
+        "Rarity": "Common",
+        "Category": "Effect Tuner Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN022",
+        "Name": "Blackwing - Zephyros the Elite",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN023",
+        "Name": "Necro Gardna",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN024",
+        "Name": "Lightsworn Sanctuary",
+        "Rarity": "Ultra Rare",
+        "Category": "Continuous Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN025",
+        "Name": "Realm of Light",
+        "Rarity": "Common",
+        "Category": "Field Spell Card",
+        "Qty": "2"
+      },
+      {
+        "code": "SDLI-EN026",
+        "Name": "Solar Recharge",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN027",
+        "Name": "Charge of the Light Brigade",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN028",
+        "Name": "Monster Reincarnation",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN029",
+        "Name": "Foolish Burial",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN030",
+        "Name": "Glorious Illusion",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN031",
+        "Name": "Lightsworn Barrier",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN032",
+        "Name": "Vanquishing Light",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN033",
+        "Name": "Beckoning Light",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN034",
+        "Name": "Skill Successor",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN035",
+        "Name": "Breakthrough Skill",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDLI-EN036",
+        "Name": "Michael, the Arch-Lightsworn",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Synchro Monster",
+        "Qty": "1"
+      }
+    ]
+  },
+  "HERO Strike Structure Deck": {
+    "title": "HERO Strike Structure Deck",
+    "slug": "hero-strike",
+    "url": "https://yugioh.fandom.com/wiki/HERO_Strike_Structure_Deck",
+    "description": "HERO Strike Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the twenty-ninth Deck in the TCG's Structure Deck series, following Geargia Rampage Structure Deck. This deck is the TCG equivalent of Structure Deck: HERO's Strike in the OCG.",
+    "Cover card": [
+      "Contrast HERO Chaos",
+      "Masked HERO Divine Wind",
+      "Masked HERO Dark Law",
+      "Masked HERO Koga"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "January 30, 2015",
+      "Europe": "January 29, 2015"
+    },
+    "cards": [
+      {
+        "code": "SDHS-EN001",
+        "Name": "Elemental HERO Shadow Mist",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN002",
+        "Name": "Elemental HERO Ocean",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN003",
+        "Name": "Elemental HERO Woodsman",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN004",
+        "Name": "Elemental HERO Voltic",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN005",
+        "Name": "Elemental HERO Heat",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN006",
+        "Name": "Elemental HERO Avian",
+        "Rarity": "Common",
+        "Category": "Normal Monster"
+      },
+      {
+        "code": "SDHS-EN007",
+        "Name": "Elemental HERO Neos",
+        "Rarity": "Common",
+        "Category": "Normal Monster"
+      },
+      {
+        "code": "SDHS-EN008",
+        "Name": "Elemental HERO Neos Alius",
+        "Rarity": "Common",
+        "Category": "Gemini monster"
+      },
+      {
+        "code": "SDHS-EN009",
+        "Name": "Elemental HERO Bladedge",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN010",
+        "Name": "Elemental HERO Necroshade",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN011",
+        "Name": "Elemental HERO Wildheart",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN012",
+        "Name": "Elemental HERO Bubbleman",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN013",
+        "Name": "Neo-Spacian Grand Mole",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN014",
+        "Name": "Honest",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN015",
+        "Name": "Card Trooper",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN016",
+        "Name": "Winged Kuriboh",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN017",
+        "Name": "Summoner Monk",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN018",
+        "Name": "Homunculus the Alchemic Being",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDHS-EN019",
+        "Name": "Mask Change II",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDHS-EN020",
+        "Name": "Form Change",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDHS-EN021",
+        "Name": "Mask Charge",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN022",
+        "Name": "Mask Change",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDHS-EN023",
+        "Name": "Polymerization",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN024",
+        "Name": "Miracle Fusion",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN025",
+        "Name": "Parallel World Fusion",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN026",
+        "Name": "A Hero Lives",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN027",
+        "Name": "Hero Mask",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN028",
+        "Name": "H - Heated Heart",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN029",
+        "Name": "E - Emergency Call",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN030",
+        "Name": "R - Righteous Justice",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN031",
+        "Name": "O - Oversoul",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN032",
+        "Name": "Reinforcement of the Army",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN033",
+        "Name": "The Warrior Returning Alive",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN034",
+        "Name": "Pot of Duality",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDHS-EN035",
+        "Name": "Hero Signal",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDHS-EN036",
+        "Name": "Hero Blast",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDHS-EN037",
+        "Name": "Call of the Haunted",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDHS-EN038",
+        "Name": "Bottomless Trap Hole",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDHS-EN039",
+        "Name": "Compulsory Evacuation Device",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDHS-EN040",
+        "Name": "Battleguard Howling",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDHS-EN041",
+        "Name": "Contrast HERO Chaos",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDHS-EN042",
+        "Name": "Masked HERO Koga",
+        "Rarity": "Super Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDHS-EN043",
+        "Name": "Masked HERO Divine Wind",
+        "Rarity": "Super Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDHS-EN044",
+        "Name": "Masked HERO Dark Law",
+        "Rarity": "Super Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDHS-EN045",
+        "Name": "Elemental HERO Great Tornado",
+        "Rarity": "Common",
+        "Category": "Effect Fusion Monster"
+      }
+    ]
+  },
+  "Master of Pendulum Structure Deck": {
+    "title": "Master of Pendulum Structure Deck",
+    "slug": "master-of-pendulum",
+    "url": "https://yugioh.fandom.com/wiki/Master_of_Pendulum_Structure_Deck",
+    "description": "Master of Pendulum Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the thirty-first Deck in the TCG's Structure Deck series, following Synchron Extreme Structure Deck. This deck is the TCG equivalent of Structure Deck: Master of Pendulum in the OCG.",
+    "Cover card": [
+      "Odd-Eyes Absolute Dragon",
+      "Odd-Eyes Meteorburst Dragon"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "December 4, 2015",
+      "Europe": "December 3, 2015"
+    },
+    "cards": [
+      {
+        "code": "SDMP-EN001",
+        "Name": "Dragonpulse Magician",
+        "Rarity": "Common",
+        "Category": "Normal Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN002",
+        "Name": "Dragonpit Magician",
+        "Rarity": "Common",
+        "Category": "Normal Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN003",
+        "Name": "Nobledragon Magician",
+        "Rarity": "Super Rare",
+        "Category": "Effect Pendulum Tuner monster"
+      },
+      {
+        "code": "SDMP-EN004",
+        "Name": "Oafdragon Magician‎",
+        "Rarity": "Super Rare",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN005",
+        "Name": "Wisdom-Eye Magician",
+        "Rarity": "Super Rare",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN006",
+        "Name": "Performapal Skullcrobat Joker",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN007",
+        "Name": "Stargazer Magician",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN008",
+        "Name": "Timegazer Magician",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN009",
+        "Name": "Odd-Eyes Pendulum Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN010",
+        "Name": "Performapal Silver Claw",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN011",
+        "Name": "Performapal Salutiger",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN012",
+        "Name": "Performapal Trump Witch",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDMP-EN013",
+        "Name": "Metaphys Armed Dragon‎",
+        "Rarity": "Common",
+        "Category": "Normal Monster"
+      },
+      {
+        "code": "SDMP-EN014",
+        "Name": "Chaos Hunter",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN015",
+        "Name": "Fusilier Dragon, the Dual-Mode Beast",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN016",
+        "Name": "Lyla, Lightsworn Sorceress",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN017",
+        "Name": "Fencing Fire Ferret",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN018",
+        "Name": "Inari Fire",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN019",
+        "Name": "Nefarious Archfiend Eater of Nefariousness",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN020",
+        "Name": "Jigabyte",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN021",
+        "Name": "Goblindbergh",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDMP-EN022",
+        "Name": "X-Saber Airbellum",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDMP-EN023",
+        "Name": "Magna Drago",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDMP-EN024",
+        "Name": "Re-Cover",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDMP-EN025",
+        "Name": "Sky Iris",
+        "Rarity": "Common",
+        "Category": "Field Spell Card"
+      },
+      {
+        "code": "SDMP-EN026",
+        "Name": "Pendulum Call",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN027",
+        "Name": "Pendulum Shift",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDMP-EN028",
+        "Name": "Pendulum Rising",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN029",
+        "Name": "Sacred Sword of Seven Stars",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN030",
+        "Name": "Summoner's Art",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN031",
+        "Name": "Mystical Space Typhoon",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDMP-EN032",
+        "Name": "Scapegoat",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDMP-EN033",
+        "Name": "Forbidden Dress",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDMP-EN034",
+        "Name": "Polymerization",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN035",
+        "Name": "Terraforming",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDMP-EN036",
+        "Name": "Pendulum Back",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDMP-EN037",
+        "Name": "Powerful Rebirth",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDMP-EN038",
+        "Name": "Traptrix Trap Hole Nightmare",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDMP-EN039",
+        "Name": "Torrential Tribute",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDMP-EN040",
+        "Name": "Eradicator Epidemic Virus",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDMP-EN041",
+        "Name": "Odd-Eyes Meteorburst Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Synchro Monster"
+      },
+      {
+        "code": "SDMP-EN042",
+        "Name": "Odd-Eyes Absolute Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Xyz Monster"
+      },
+      {
+        "code": "SDMP-EN043",
+        "Name": "Rune-Eyes Pendulum Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Fusion Monster"
+      }
+    ]
+  },
+  "Emperor of Darkness Structure Deck": {
+    "title": "Emperor of Darkness Structure Deck",
+    "slug": "emperor-of-darkness",
+    "url": "https://yugioh.fandom.com/wiki/Emperor_of_Darkness_Structure_Deck",
+    "description": "Emperor of Darkness Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the thirty-second Deck in the TCG's Structure Deck series, following the Master of Pendulum Structure Deck. This deck is the TCG equivalent of Structure Deck R: Advent of the True Monarch in the OCG.",
+    "Cover card": [
+      "Erebus the Underworld Monarch"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "January 29, 2016",
+      "Europe": "January 28, 2016"
+    },
+    "cards": [
+      {
+        "code": "SR01-ENTKN",
+        "Name": "Token",
+        "Rarity": "Common",
+        "Category": "Token Monster"
+      },
+      {
+        "code": "SR01-EN000",
+        "Name": "Ehther the Heavenly Monarch",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN001",
+        "Name": "Erebus the Underworld Monarch",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN002",
+        "Name": "Eidos the Underworld Squire",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN003",
+        "Name": "Edea the Heavenly Squire",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN004",
+        "Name": "Caius the Shadow Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN005",
+        "Name": "Zaborg the Thunder Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN006",
+        "Name": "Granmarg the Rock Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN007",
+        "Name": "Mobius the Frost Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN008",
+        "Name": "Thestalos the Firestorm Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN009",
+        "Name": "Raiza the Storm Monarch",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN010",
+        "Name": "Lucius the Shadow Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN011",
+        "Name": "Mithra the Thunder Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN012",
+        "Name": "Landrobe the Rock Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN013",
+        "Name": "Escher the Frost Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN014",
+        "Name": "Berlineth the Firestorm Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN015",
+        "Name": "Garum the Storm Vassal",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN016",
+        "Name": "Illusory Snatcher",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN017",
+        "Name": "Tragoedia",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN018",
+        "Name": "Dandylion",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN019",
+        "Name": "Mathematician",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN020",
+        "Name": "Level Eater",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN021",
+        "Name": "Battle Fader",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN022",
+        "Name": "Rainbow Kuriboh",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR01-EN023",
+        "Name": "Pantheism of the Monarchs",
+        "Rarity": "Super Rare",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR01-EN024",
+        "Name": "Domain of the True Monarchs",
+        "Rarity": "Common",
+        "Category": "Field Spell Card"
+      },
+      {
+        "code": "SR01-EN025",
+        "Name": "March of the Monarchs",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SR01-EN026",
+        "Name": "Return of the Monarchs",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SR01-EN027",
+        "Name": "The Monarchs Stormforth",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SR01-EN028",
+        "Name": "Strike of the Monarchs",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SR01-EN029",
+        "Name": "Tenacity of the Monarchs",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR01-EN030",
+        "Name": "Soul Exchange",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR01-EN031",
+        "Name": "Enemy Controller",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SR01-EN032",
+        "Name": "Dicephoon",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SR01-EN033",
+        "Name": "Soul Charge",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR01-EN034",
+        "Name": "The Prime Monarch",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR01-EN035",
+        "Name": "The First Monarch",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR01-EN036",
+        "Name": "Escalation of the Monarchs",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR01-EN037",
+        "Name": "The Monarchs Awaken",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SR01-EN038",
+        "Name": "The Monarchs Erupt",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR01-EN039",
+        "Name": "By Order of the Emperor",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR01-EN040",
+        "Name": "Pinpoint Guard",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      }
+    ]
+  },
+  "Pendulum Domination Structure Deck": {
+    "title": "Pendulum Domination Structure Deck",
+    "slug": "pendulum-domination",
+    "url": "https://yugioh.fandom.com/wiki/Pendulum_Domination_Structure_Deck",
+    "description": "Pendulum Domination Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the thirty-sixth Deck in the TCG's Structure Deck series, following Structure Deck: Seto Kaiba. This Deck is the TCG equivalent of Structure Deck: Pendulum Domination in the OCG.",
+    "Cover card": [
+      "D/D/D Chaos King Apocalypse",
+      "D/D/D Cursed King Siegfried",
+      "D/D/D Dragonbane King Beowulf"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "January 20, 2017",
+      "Europe": "January 19, 2017"
+    },
+    "cards": [
+      {
+        "code": "SDPD-EN001",
+        "Name": "D/D/D Chaos King Apocalypse",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN002",
+        "Name": "D/D Savant Newton",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN003",
+        "Name": "D/D Savant Copernicus",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN004",
+        "Name": "D/D Orthros",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN005",
+        "Name": "D/D Lamia",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDPD-EN006",
+        "Name": "D/D/D Doom King Armageddon",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN007",
+        "Name": "D/D Cerberus",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN008",
+        "Name": "D/D Lilith",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN009",
+        "Name": "D/D Nighthowl",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDPD-EN010",
+        "Name": "D/D Savant Galilei",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN011",
+        "Name": "D/D Savant Kepler",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN012",
+        "Name": "D/D/D Oblivion King Abyss Ragnarok",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN013",
+        "Name": "D/D/D Supreme King Kaiser",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN014",
+        "Name": "D/D Proud Ogre",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN015",
+        "Name": "D/D Proud Chevalier",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDPD-EN016",
+        "Name": "Dark Armed Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN017",
+        "Name": "Dark Grepher",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN018",
+        "Name": "Armageddon Knight",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN019",
+        "Name": "Trance Archfiend",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN020",
+        "Name": "Kuribandit",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN021",
+        "Name": "Stygian Street Patrol",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDPD-EN022",
+        "Name": "Stygian Security",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDPD-EN023",
+        "Name": "Dark Contract with the Yamimakai",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SDPD-EN024",
+        "Name": "Dark Contract with the Gate",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SDPD-EN025",
+        "Name": "Dark Contract with the Swamp King",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SDPD-EN026",
+        "Name": "Forbidden Dark Contract with the Swamp King",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SDPD-EN027",
+        "Name": "Foolish Burial",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDPD-EN028",
+        "Name": "One for One",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDPD-EN029",
+        "Name": "Allure of Darkness",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDPD-EN030",
+        "Name": "Dark Eruption",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDPD-EN031",
+        "Name": "Emergency Provisions",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDPD-EN032",
+        "Name": "D/D Reroll",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDPD-EN033",
+        "Name": "D/D Recruits",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDPD-EN034",
+        "Name": "D/D/D Human Resources",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDPD-EN035",
+        "Name": "Dark Contract with the Witch",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDPD-EN036",
+        "Name": "Dark Contract with Errors",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDPD-EN037",
+        "Name": "Contract Laundering",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDPD-EN038",
+        "Name": "Sinister Yorishiro",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDPD-EN039",
+        "Name": "Escape from the Dark Dimension",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDPD-EN040",
+        "Name": "Hope for Escape",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDPD-EN041",
+        "Name": "D/D/D Dragonbane King Beowulf",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDPD-EN042",
+        "Name": "D/D/D Cursed King Siegfried",
+        "Rarity": "Super Rare",
+        "Category": "Effect Synchro Monster"
+      },
+      {
+        "code": "SDPD-EN043",
+        "Name": "D/D/D Wave King Caesar",
+        "Rarity": "Common",
+        "Category": "Effect Xyz Monster"
+      }
+    ]
+  },
+  "Structure Deck: Cyberse Link": {
+    "title": "Structure Deck: Cyberse Link",
+    "slug": "cyberse-link",
+    "url": "https://yugioh.fandom.com/wiki/Structure_Deck:_Cyberse_Link",
+    "description": "Structure Deck: Cyberse Link is a Structure Deck in the Yu-Gi-Oh! Official Card Game[1] and Yu-Gi-Oh! Trading Card Game[2]. It is the thirty-fourth Deck in the OCG's Structure Deck series, following Structure Deck: Pendulum Evolution. It is the thirty-ninth Deck in the TCG's Structure Deck series, following Dinosmasher's Fury Structure Deck.",
+    "Japanese Name": "ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －サイバース・リンク－「ストラクチャーデッキ －サイバース・リンク－」(Sutorakuchā Dekki - Saibāsu Rinku -)",
+    "Cover card": [
+      "Encode Talker",
+      "Tri-Gate Wizard (TCG only)"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "Japan": "June 17, 2017",
+      "North America": "November 3, 2017",
+      "Europe": "November 2, 2017"
+    },
+    "cards": [
+      {
+        "code": "SDCL-EN001",
+        "Name": "Digitron",
+        "Rarity": "Common",
+        "Category": "Normal Monster"
+      },
+      {
+        "code": "SDCL-EN002",
+        "Name": "Dotscaper",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN003",
+        "Name": "Cliant",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN004",
+        "Name": "Backlinker",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN005",
+        "Name": "Balancer Lord",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN006",
+        "Name": "ROM Cloudia",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN007",
+        "Name": "Boot Staggered",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN008",
+        "Name": "Dual Assembwurm",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN009",
+        "Name": "Cyberse Wizard",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN010",
+        "Name": "Backup Secretary",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN011",
+        "Name": "Stack Reviver",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN012",
+        "Name": "Launcher Commander",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN013",
+        "Name": "Tragoedia",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN014",
+        "Name": "Summoner Monk",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN015",
+        "Name": "Card Trooper",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN016",
+        "Name": "Debris Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDCL-EN017",
+        "Name": "Mathematician",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN018",
+        "Name": "Crane Crane",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN019",
+        "Name": "Magician of Faith",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDCL-EN020",
+        "Name": "Jester Confit",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDCL-EN021",
+        "Name": "Glow-Up Bulb",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDCL-EN022",
+        "Name": "Kinka-byo",
+        "Rarity": "Common",
+        "Category": "Spirit monster"
+      },
+      {
+        "code": "SDCL-EN023",
+        "Name": "Cynet Backdoor",
+        "Rarity": "Super Rare",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDCL-EN024",
+        "Name": "Soul Charge",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDCL-EN025",
+        "Name": "Shuffle Reborn",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDCL-EN026",
+        "Name": "D.D.R. - Different Dimension Reincarnation",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card"
+      },
+      {
+        "code": "SDCL-EN027",
+        "Name": "Gold Sarcophagus",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDCL-EN028",
+        "Name": "Mind Control",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDCL-EN029",
+        "Name": "Cosmic Cyclone",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDCL-EN030",
+        "Name": "Moon Mirror Shield",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card"
+      },
+      {
+        "code": "SDCL-EN031",
+        "Name": "Where Arf Thou?",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDCL-EN032",
+        "Name": "Recoded Alive",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN033",
+        "Name": "Miracle's Wake",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN034",
+        "Name": "Powerful Rebirth",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDCL-EN035",
+        "Name": "Premature Return",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN036",
+        "Name": "Swamp Mirrorer",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDCL-EN037",
+        "Name": "Quantum Cat",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDCL-EN038",
+        "Name": "Storming Mirror Force",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN039",
+        "Name": "Dimensional Barrier",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN040",
+        "Name": "Ghosts From the Past",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDCL-EN041",
+        "Name": "Encode Talker",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Link Monster"
+      },
+      {
+        "code": "SDCL-EN042",
+        "Name": "Tri-Gate Wizard",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Link Monster"
+      },
+      {
+        "code": "SDCL-EN043",
+        "Name": "Binary Sorceress",
+        "Rarity": "Super Rare",
+        "Category": "Effect Link Monster"
+      }
+    ]
+  },
+  "Structure Deck: Wave of Light": {
+    "title": "Structure Deck: Wave of Light",
+    "slug": "wave-of-light",
+    "url": "https://yugioh.fandom.com/wiki/Structure_Deck:_Wave_of_Light",
+    "description": "Structure Deck: Wave of Light is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the 40th Deck in the TCG's Structure Deck series, following Structure Deck: Cyberse Link, and followed by Structure Deck: Lair of Darkness. This deck is the TCG equivalent of Structure Deck R: Surge of Divine Light in the OCG.",
+    "Cover card": [
+      "Sacred Arch-Airknight Parshath"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "January 19, 2018",
+      "Europe": "January 18, 2018"
+    },
+    "cards": [
+      {
+        "code": "SR05-ENTKN",
+        "Name": "Synthetic Seraphim Token",
+        "Rarity": "Common",
+        "Category": "Token"
+      },
+      {
+        "code": "SR05-EN000",
+        "Name": "Eva",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN001",
+        "Name": "Sacred Arch-Airknight Parshath",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN002",
+        "Name": "Minerva, Scholar of the Sky",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN003",
+        "Name": "Power Angel Valkyria",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN004",
+        "Name": "Neo-Parshath, the Sky Paladin",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN005",
+        "Name": "Airknight Parshath",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN006",
+        "Name": "Meltiel, Sage of the Sky",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN007",
+        "Name": "Harvest Angel of Wisdom",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN008",
+        "Name": "Bountiful Artemis",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN009",
+        "Name": "Layard the Liberator",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN010",
+        "Name": "Guiding Ariadne",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SR05-EN011",
+        "Name": "Archlord Kristya",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN012",
+        "Name": "Splendid Venus",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN013",
+        "Name": "Athena",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN014",
+        "Name": "Tethys, Goddess of Light",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN015",
+        "Name": "Hecatrice",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN016",
+        "Name": "Gellenduo",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN017",
+        "Name": "Nova Summoner",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN018",
+        "Name": "Honest",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN019",
+        "Name": "Herald of Orange Light",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SR05-EN020",
+        "Name": "Herald of Green Light",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN021",
+        "Name": "Herald of Purple Light",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN022",
+        "Name": "Guiding Light",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SR05-EN023",
+        "Name": "D.D. Sprite",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SR05-EN024",
+        "Name": "Hanewata",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SR05-EN025",
+        "Name": "The Sanctum of Parshath",
+        "Rarity": "Super Rare",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SR05-EN026",
+        "Name": "The Sanctuary in the Sky",
+        "Rarity": "Common",
+        "Category": "Field Spell Card"
+      },
+      {
+        "code": "SR05-EN027",
+        "Name": "Cards from the Sky",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR05-EN028",
+        "Name": "Celestial Transformation",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SR05-EN029",
+        "Name": "Valhalla, Hall of the Fallen",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card"
+      },
+      {
+        "code": "SR05-EN030",
+        "Name": "Ties of the Brethren",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SR05-EN031",
+        "Name": "Rebirth of Parshath",
+        "Rarity": "Super Rare",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN032",
+        "Name": "Light of Judgment",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SR05-EN033",
+        "Name": "Miraculous Descent",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR05-EN034",
+        "Name": "Synthetic Seraphim",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SR05-EN035",
+        "Name": "Divine Punishment",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN036",
+        "Name": "Dark Bribe",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN037",
+        "Name": "Solemn Warning",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN038",
+        "Name": "Ultimate Providence",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN039",
+        "Name": "Drastic Drop Off",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      },
+      {
+        "code": "SR05-EN040",
+        "Name": "Recall",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card"
+      }
+    ]
+  },
+  "Structure Deck: Powercode Link": {
+    "title": "Structure Deck: Powercode Link",
+    "slug": "powercode-link",
+    "url": "https://yugioh.fandom.com/wiki/Structure_Deck:_Powercode_Link",
+    "description": "Structure Deck: Powercode Link is a Structure Deck in the Yu-Gi-Oh! Official Card Game and Yu-Gi-Oh! Trading Card Game. It is the 35th Deck in the OCG's Structure Deck series, following Structure Deck: Cyberse Link. It is the 42nd Deck in the TCG's Structure Deck series, following Structure Deck: Lair of Darkness.",
+    "Japanese Name": "ストラクチャーデッキ －パワーコード・リンク－",
+    "Cover card": [
+      "Powercode Talker",
+      "Segmental Dragon (TCG only)"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "Japan": "December 9, 2017",
+      "North America": "August 10, 2018",
+      "Europe": "August 9, 2018"
+    },
+    "cards": [
+      {
+        "code": "SDPL-EN001",
+        "Name": "Datacorn",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN002",
+        "Name": "Garbage Collector",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN003",
+        "Name": "Sea Archiver",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN004",
+        "Name": "Flame Bufferlo",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN005",
+        "Name": "Lady Debug",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN006",
+        "Name": "Antialian",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN007",
+        "Name": "Storm Cipher",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN008",
+        "Name": "Segmental Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN009",
+        "Name": "Cyberse Gadget",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN010",
+        "Name": "Juragedo",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN011",
+        "Name": "Mecha Phantom Beast Tetherwolf",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN012",
+        "Name": "Reborn Tengu",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "2"
+      },
+      {
+        "code": "SDPL-EN013",
+        "Name": "Skull Meister",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN014",
+        "Name": "Goblindbergh",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN015",
+        "Name": "Phantom Skyblaster",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN016",
+        "Name": "Genex Ally Birdman",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN017",
+        "Name": "Effect Veiler",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN018",
+        "Name": "Magical Merchant",
+        "Rarity": "Common",
+        "Category": "Flip monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN019",
+        "Name": "Cosmic Compass",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN020",
+        "Name": "Launcher Commander",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN021",
+        "Name": "Cynet Storm",
+        "Rarity": "Common",
+        "Category": "Field Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN022",
+        "Name": "Night Beam",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN023",
+        "Name": "Offerings to the Doomed",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN024",
+        "Name": "Forbidden Chalice",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN025",
+        "Name": "Scapegoat",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN026",
+        "Name": "Swords of Revealing Light",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN027",
+        "Name": "Reasoning",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN028",
+        "Name": "Fires of Doomsday",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN029",
+        "Name": "One for One",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN030",
+        "Name": "Terraforming",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN031",
+        "Name": "Packet Link",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN032",
+        "Name": "Wild Tornado",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN033",
+        "Name": "Traptrix Trap Hole Nightmare",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN034",
+        "Name": "Blazing Mirror Force",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN035",
+        "Name": "Trap Stun",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN036",
+        "Name": "Safe Zone",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN037",
+        "Name": "Call of the Haunted",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN038",
+        "Name": "Reckless Greed",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN039",
+        "Name": "Debunk",
+        "Rarity": "Common",
+        "Category": "Counter Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN040",
+        "Name": "Powercode Talker",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Link Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN041",
+        "Name": "Traffic Ghost",
+        "Rarity": "Common",
+        "Category": "Link Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SDPL-EN042",
+        "Name": "LANphorhynchus",
+        "Rarity": "Common",
+        "Category": "Link Monster",
+        "Qty": "1"
+      }
+    ]
+  },
+  "Structure Deck: Zombie Horde": {
+    "title": "Structure Deck: Zombie Horde",
+    "slug": "zombie-horde",
+    "url": "https://yugioh.fandom.com/wiki/Structure_Deck:_Zombie_Horde",
+    "description": "Zombie Horde Structure Deck is a Structure Deck in the Yu-Gi-Oh! Trading Card Game (TCG). It is the 43rd Deck in the TCG's Structure Deck series, following the Structure Deck: Powercode Link. This deck is the TCG equivalent of Structure Deck R: Undead World in the OCG.",
+    "Cover card": [
+      "Red-Eyes Zombie Necro Dragon",
+      "Doomking Balerdroch"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "November 2, 2018",
+      "Europe": "November 1, 2018"
+    },
+    "cards": [
+      {
+        "code": "SR07-EN000",
+        "Name": "Tatsunecro",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN001",
+        "Name": "Doomking Balerdroch",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN002",
+        "Name": "Necroworld Banshee",
+        "Rarity": "Super Rare",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN003",
+        "Name": "Glow-Up Bloom",
+        "Rarity": "Super Rare",
+        "Category": "Effect Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN004",
+        "Name": "Kasha",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN005",
+        "Name": "Red-Eyes Zombie Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN006",
+        "Name": "Malevolent Mech - Goku En",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN007",
+        "Name": "Endless Decay",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN008",
+        "Name": "Paladin of the Cursed Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN009",
+        "Name": "Immortal Ruler",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN010",
+        "Name": "Zombie Master",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN011",
+        "Name": "Tristan, Knight of the Underworld",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN012",
+        "Name": "Mezuki",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN013",
+        "Name": "Gozuki",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN014",
+        "Name": "Shutendoji",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN015",
+        "Name": "Pyramid Turtle",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN016",
+        "Name": "Goblin Zombie",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN017",
+        "Name": "Isolde, Belle of the Underworld",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN018",
+        "Name": "Shiranui Solitaire",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN019",
+        "Name": "Uni-Zombie",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN020",
+        "Name": "Marionette Mite",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN021",
+        "Name": "Beast of the Pharaoh",
+        "Rarity": "Common",
+        "Category": "Effect Monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN022",
+        "Name": "Scapeghost",
+        "Rarity": "Common",
+        "Category": "Flip Tuner monster",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN023",
+        "Name": "Zombie Necronize",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN024",
+        "Name": "Zombie Power Struggle",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN025",
+        "Name": "Zombie World",
+        "Rarity": "Common",
+        "Category": "Field Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN026",
+        "Name": "Overpowering Eye",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN027",
+        "Name": "Book of Life",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN028",
+        "Name": "Call of the Mummy",
+        "Rarity": "Common",
+        "Category": "Continuous Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN029",
+        "Name": "Foolish Burial",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN030",
+        "Name": "Monster Gate",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN031",
+        "Name": "Dragged Down into the Grave",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN032",
+        "Name": "Burial from a Different Dimension",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN033",
+        "Name": "Shared Ride",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN034",
+        "Name": "Return of the Zombies",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN035",
+        "Name": "Haunted Shrine",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN036",
+        "Name": "Trap of the Imperial Tomb",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN037",
+        "Name": "Needlebug Nest",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN038",
+        "Name": "Metaverse",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN039",
+        "Name": "Anti-Spell Fragrance",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN040",
+        "Name": "Mask of Restrict",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card",
+        "Qty": "1"
+      },
+      {
+        "code": "SR07-EN041",
+        "Name": "Red-Eyes Zombie Necro Dragon",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Synchro Monster",
+        "Qty": "1"
+      }
+    ]
+  },
+  "Structure Deck: Shaddoll Showdown": {
+    "title": "Structure Deck: Shaddoll Showdown",
+    "slug": "shaddoll-showdown",
+    "url": "https://yugioh.fandom.com/wiki/Structure_Deck:_Shaddoll_Showdown",
+    "description": "Structure Deck: Shaddoll Showdown is a Structure Deck in the Yu-Gi-Oh! Trading Card Game. It is the 47th Deck in the TCG's Structure Deck series, following Structure Deck: Rokket Revolt.",
+    "Cover card": [
+      "El Shaddoll Apkallone",
+      "El Shaddoll Construct",
+      "El Shaddoll Winda"
+    ],
+    "Type": "Structure Deck",
+    "Release dates": {
+      "North America": "February 14, 2020",
+      "Europe": "February 13, 2020"
+    },
+    "cards": [
+      {
+        "code": "SDSH-EN001",
+        "Name": "Qadshaddoll Keios",
+        "Rarity": "Super Rare",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN002",
+        "Name": "Reeshaddoll Wendi",
+        "Rarity": "Super Rare",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN003",
+        "Name": "Naelshaddoll Ariel",
+        "Rarity": "Super Rare",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN004",
+        "Name": "Shaddoll Falco",
+        "Rarity": "Common",
+        "Category": "Flip Tuner monster"
+      },
+      {
+        "code": "SDSH-EN005",
+        "Name": "Shaddoll Hedgehog",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN006",
+        "Name": "Shaddoll Squamata",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN007",
+        "Name": "Shaddoll Dragon",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN008",
+        "Name": "Shaddoll Beast",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN009",
+        "Name": "Shaddoll Hound",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN010",
+        "Name": "Shaddoll Zefranaga",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDSH-EN011",
+        "Name": "Shaddoll Zefracore",
+        "Rarity": "Common",
+        "Category": "Effect Pendulum Monster"
+      },
+      {
+        "code": "SDSH-EN012",
+        "Name": "Black Luster Soldier - Envoy of the Beginning",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN013",
+        "Name": "Lava Golem",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN014",
+        "Name": "Dark Armed Dragon",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN015",
+        "Name": "Fairy Tail - Sleeper",
+        "Rarity": "Common",
+        "Category": "Flip monster"
+      },
+      {
+        "code": "SDSH-EN016",
+        "Name": "Performage Trick Clown",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN017",
+        "Name": "Armageddon Knight",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN018",
+        "Name": "Felis, Lightsworn Archer",
+        "Rarity": "Common",
+        "Category": "Effect Tuner monster"
+      },
+      {
+        "code": "SDSH-EN019",
+        "Name": "Electromagnetic Turtle",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN020",
+        "Name": "Mathematician",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN021",
+        "Name": "Kuribandit",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN022",
+        "Name": "Peropero Cerperus",
+        "Rarity": "Common",
+        "Category": "Effect Monster"
+      },
+      {
+        "code": "SDSH-EN023",
+        "Name": "Curse of the Shadow Prison",
+        "Rarity": "Common",
+        "Category": "Field Spell Card"
+      },
+      {
+        "code": "SDSH-EN024",
+        "Name": "El Shaddoll Fusion",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDSH-EN025",
+        "Name": "Nephe Shaddoll Fusion",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card"
+      },
+      {
+        "code": "SDSH-EN026",
+        "Name": "Super Polymerization",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDSH-EN027",
+        "Name": "Instant Fusion",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDSH-EN028",
+        "Name": "Allure of Darkness",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDSH-EN029",
+        "Name": "Foolish Burial",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDSH-EN030",
+        "Name": "Living Fossil",
+        "Rarity": "Common",
+        "Category": "Equip Spell Card"
+      },
+      {
+        "code": "SDSH-EN031",
+        "Name": "Pot of Avarice",
+        "Rarity": "Common",
+        "Category": "Normal Spell Card"
+      },
+      {
+        "code": "SDSH-EN032",
+        "Name": "Twin Twisters",
+        "Rarity": "Common",
+        "Category": "Quick-Play Spell Card"
+      },
+      {
+        "code": "SDSH-EN033",
+        "Name": "Resh Shaddoll Incarnation",
+        "Rarity": "Super Rare",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN034",
+        "Name": "Shaddoll Core",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDSH-EN035",
+        "Name": "Sinister Shadow Games",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN036",
+        "Name": "Purushaddoll Aeon",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN037",
+        "Name": "Lost Wind",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN038",
+        "Name": "Unending Nightmare",
+        "Rarity": "Common",
+        "Category": "Continuous Trap Card"
+      },
+      {
+        "code": "SDSH-EN039",
+        "Name": "Necro Fusion",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN040",
+        "Name": "Subterror Succession",
+        "Rarity": "Common",
+        "Category": "Normal Trap Card"
+      },
+      {
+        "code": "SDSH-EN041",
+        "Name": "El Shaddoll Grysta",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN042",
+        "Name": "El Shaddoll Wendigo",
+        "Rarity": "Common",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN043",
+        "Name": "El Shaddoll Anoyatyllis",
+        "Rarity": "Common",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN044",
+        "Name": "Shaddoll Construct",
+        "Rarity": "Common",
+        "Category": "Effect Link Monster"
+      },
+      {
+        "code": "SDSH-EN045",
+        "Name": "El Shaddoll Apkallone",
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN046",
+        "Name": [
+          "El Shaddoll Construct"
+        ],
+        "Rarity": "Ultra Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN047",
+        "Name": [
+          "El Shaddoll Winda"
+        ],
+        "Rarity": "Super Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN048",
+        "Name": "El Shaddoll Shekhinaga",
+        "Rarity": "Super Rare",
+        "Category": "Effect Fusion Monster"
+      },
+      {
+        "code": "SDSH-EN049",
+        "Name": "Shaddoll Fusion",
+        "Rarity": "Super Rare",
+        "Category": "Normal Spell Card"
+      }
+    ]
+  }
+}
