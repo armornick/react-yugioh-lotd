@@ -17,7 +17,7 @@ export default function StructureDecks({ decks }) {
             {
                 decks.map(deck => 
                     <li key={deck.slug}>
-                        <code>{ JSON.stringify(deck) }</code>
+                        <Link href={`/structure-decks/${deck.slug}`}>{deck.title}</Link>
                     </li>
                 )
             }
@@ -28,7 +28,7 @@ export default function StructureDecks({ decks }) {
 
 
 export async function getStaticProps() {
-    const data = await import('../../data/structure-decks.json');
+    const data = await import('data/structure-decks.json');
     let decks = Object.keys(data);
     decks = decks.filter(item => data[item] && data[item].slug != null);
     decks = decks.map(deck => ({ title: data[deck].title, slug: data[deck].slug, }));

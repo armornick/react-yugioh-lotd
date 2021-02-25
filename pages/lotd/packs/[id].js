@@ -15,7 +15,7 @@ export default function PackViewer({ pack }) {
                 <title>{pack.title} Pack - Legacy of the Duelist</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <dvi className="row">
+            <div className="row">
                 <div className="col-6 col-12-medium">
                     <h1>{pack.title}</h1>
                     <p><strong>Cost:</strong> {pack.cost}DP</p>
@@ -30,7 +30,7 @@ export default function PackViewer({ pack }) {
                         <img src={`/images/${getImageSlug(pack.title)}`} alt={`image of ${pack.title}`} />
                     </span>
                 </div>
-            </dvi>
+            </div>
             
             { "Normal Monsters" in pack ? <CardList category="Normal Monsters" cards={pack["Normal Monsters"]} /> : null }
             { "Effect Monsters" in pack ? <CardList category="Effect Monsters" cards={pack["Effect Monsters"]} /> : null }
