@@ -54,7 +54,7 @@ export default function Layout({ children }) {
                     <header className={styles.header}>
                         <Link href="/">
                             <a className={styles.logo}>
-                                <strong>Editorial</strong> by HTML5 UP
+                                <strong>Yu-Gi-Oh!</strong> Mini-Database
                             </a>
                         </Link>
                     </header>
@@ -73,9 +73,10 @@ export default function Layout({ children }) {
                             <h2>Menu</h2>
                         </header>
                         <ul>
-                            <li><Link href="/">Homepage</Link></li>
-                            <li><Link href="/">Generic</Link></li>
-                            <li><Link href="/">Elements</Link></li>
+                            <li><Link href="/">Index</Link></li>
+                            <li><Link href="/lotd/packs">Legacy of the Duelist</Link></li>
+                            <li><Link href="/link-evolution/packs">Link Evolution</Link></li>
+                            <li><Link href="/structure-decks">Structure Decks</Link></li>
                         </ul>
                     </nav>
                     <footer className={styles.footer}>
