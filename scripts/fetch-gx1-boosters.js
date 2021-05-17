@@ -1,10 +1,10 @@
 const { writeFileSync, existsSync, mkdirSync } = require('fs');
-const { parseNavboxPage, parseCardTablePage } = require('./yugipedia-parser');
+const { parseNavboxPage, parseRarityPage } = require('./yugipedia-parser');
 const Downloader = require('./axios-downloader');
 
 const CACHE_DIR = '.cache';
 const OUTPUT_DIR = 'data';
-const OUTPUT_FNAME = 'wc05-boosters.json';
+const OUTPUT_FNAME = 'gx1-boosters.json';
 
 const mkdirIfNotExists = (directory) => {
     if (!existsSync(directory)) {
@@ -12,17 +12,19 @@ const mkdirIfNotExists = (directory) => {
     }
 };
 
+const RE_GX1_LINK = /_\(GX1-BP\)$/;
+
 const linkMatcher = (link) => {
-    return link !== '/wiki/Kame_Game' && link !== '/wiki/Mystic_Stall';
+    return RE_GX1_LINK.test(link);
 }
 
 const parseLinks = (links) => {
     const results = [];
     for (const link of links) {
-        const name = link.replace(/_\(World_Championship_2005\)$/,'').replace(/^\/wiki\//, '');
+        const name = link.replace(RE_GX1_LINK,'').replace(/^\/wiki\//, '');
         results.push({
-            name: name.replace(/_/g, ' '),
-            fname: 'WC07_' + name + '.html',
+            name: name.replace(/_/g, ' ').replace('%27', '\''),
+            fname: 'GX1_' + name + '.html',
             url: 'https://yugipedia.com' + link,
         });
     }
@@ -35,7 +37,7 @@ const main = async () => {
     mkdirIfNotExists(OUTPUT_DIR);
 
     const dl = new Downloader({ outputDir: CACHE_DIR });
-    const response = await dl.download('WC05-Boosters.html', 'https://yugipedia.com/wiki/Template:Yu-Gi-Oh!_7_Trials_to_Glory:_World_Championship_Tournament_2005_sets');
+    const response = await dl.download('GX1-Boosters.html', 'https://yugipedia.com/wiki/Template:Yu-Gi-Oh!_GX_Duel_Academy_sets');
     
     const linksRaw = parseNavboxPage(response, linkMatcher);
     const links = parseLinks(linksRaw);
@@ -44,9 +46,9 @@ const main = async () => {
     for (const link of links) {
 
         const page = await dl.download(link.fname, link.url);
-        const data = parseCardTablePage(page);
+        const data = parseRarityPage(page);
 
-        if (data.length > 0) {
+        if (data.Common) {
             result[link.name] = data;
         }
 
