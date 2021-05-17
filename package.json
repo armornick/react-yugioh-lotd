@@ -12,6 +12,7 @@
     "gen-data:structure-decks": "node scripts/fetch-structure-decks.js",
     "gen-data:wc08": "node scripts/fetch-wc8-boosters.js",
     "gen-data:wc07": "node scripts/fetch-wc7-boosters.js",
+    "gen-data:wc05": "node scripts/fetch-wc5-boosters.js",
     "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {

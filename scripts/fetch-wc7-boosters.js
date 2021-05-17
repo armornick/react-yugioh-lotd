@@ -1,5 +1,6 @@
 const { writeFileSync, existsSync, mkdirSync } = require('fs');
 const { JSDOM } = require('jsdom');
+const { parseRarityPage } = require('./yugipedia-parser');
 const Downloader = require('./axios-downloader');
 
 const CACHE_DIR = '.cache';
@@ -34,7 +35,7 @@ const main = async () => {
     mkdirIfNotExists(CACHE_DIR);
     mkdirIfNotExists(OUTPUT_DIR);
 
-    const cardDb = require('./yugioh-cards.json').data;
+    // const cardDb = require('./yugioh-cards.json').data;
 
     const result = {};
     const dl = new Downloader({ outputDir: CACHE_DIR });
@@ -46,31 +47,7 @@ const main = async () => {
     const links = getCardPackLinks(document);
     for (const link of links) {
         const page = await dl.download(link.fname, link.url);
-        const dom = new JSDOM(page);
-        const document = dom.window.document;
-
-        const cards = {};
-        const firstHeading = document.querySelector('.mw-parser-output > h2');
-        let element = firstHeading;
-        while (element) {
-            let rarity = element.textContent.replace('[edit]','');
-            
-            element = element.nextElementSibling;
-            if (element && element.tagName === 'UL') {
-                const cards2 = [];
-                const items = element.querySelectorAll('li');
-                for (const item of items) {
-                    cards2.push(item.textContent);
-                }
-
-                cards[rarity] = cards2;
-                element = element.nextElementSibling;
-            }
-
-            if (element && element.tagName !== 'H2') {
-                element = null;
-            }
-        }
+        const cards = parseRarityPage(page);
 
         if (cards.Common) { // to filter "structure decks" and "all at random"
             result[link.name] = cards;

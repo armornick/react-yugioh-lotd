@@ -20,6 +20,11 @@ class AxiosDownloader {
         return `${this.outputDir}/${outname}`;
     }
 
+    async downloadString(url) {
+        const response = await axios.get(url);
+        return response.data;
+    }
+
     async downloadWeb(outname, url) {
         console.log(`${url} -> ${outname}`);
         const response = await axios.get(url);
