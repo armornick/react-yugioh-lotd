@@ -103,6 +103,14 @@ const mkdirIfNotExists = (directory) => {
     }
 };
 
+const makePassword = (id) => {
+    let password = String(id);
+    while (password.length < 8) {
+        password = "0" + password;
+    }
+    return password;
+};
+
 const getCardPackLinks = (document) => {
     const pages = [];
     const links = document.querySelectorAll('a');
@@ -173,6 +181,7 @@ const main = async () => {
                         alias: trueName != cardName ? trueName : undefined,
                         type: cardData.type,
                         archetype: cardData.archetype,
+                        password: makePassword(cardData.id),
                     });
 
                 }
