@@ -144,6 +144,7 @@ const main = async () => {
 
     const cardDb = require('./yugioh-cards.json').data;
 
+    let i = 1;
     const result = {};
     const dl = new Downloader({ outputDir: CACHE_DIR });
 
@@ -189,6 +190,7 @@ const main = async () => {
             }
 
             result[link.name] = {
+                id: i++,
                 title: link.name,
                 requirement: BOOSTER_PACK_UNLOCKS[ link.name ],
                 cards

@@ -74,6 +74,7 @@ export default function Layout({ children }) {
                         </header>
                         <ul>
                             <li><Link href="/">Index</Link></li>
+                            <li><Link href="/world-championship-2008/packs">World Championship 2008</Link></li>
                             <li><Link href="/lotd/packs">Legacy of the Duelist</Link></li>
                             <li><Link href="/link-evolution/packs">Link Evolution</Link></li>
                             <li><Link href="/structure-decks">Structure Decks</Link></li>

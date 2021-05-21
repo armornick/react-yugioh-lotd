@@ -1,5 +1,6 @@
 {
   "White Light Ruler": {
+    "id": 1,
     "title": "White Light Ruler",
     "requirement": "Always available for purchase",
     "cards": [
@@ -316,6 +317,7 @@
     ]
   },
   "Fiery Rage": {
+    "id": 2,
     "title": "Fiery Rage",
     "requirement": "Always available for purchase",
     "cards": [
@@ -629,6 +631,7 @@
     ]
   },
   "Chaos Knight": {
+    "id": 3,
     "title": "Chaos Knight",
     "requirement": "Always available for purchase",
     "cards": [
@@ -953,6 +956,7 @@
     ]
   },
   "Dark Legend": {
+    "id": 4,
     "title": "Dark Legend",
     "requirement": "Always available for purchase",
     "cards": [
@@ -1268,6 +1272,7 @@
     ]
   },
   "Dark Flare Battle": {
+    "id": 5,
     "title": "Dark Flare Battle",
     "requirement": "Always available for purchase",
     "cards": [
@@ -1587,6 +1592,7 @@
     ]
   },
   "Ultimate Power": {
+    "id": 6,
     "title": "Ultimate Power",
     "requirement": "Always available for purchase",
     "cards": [
@@ -1895,6 +1901,7 @@
     ]
   },
   "My Hero": {
+    "id": 7,
     "title": "My Hero",
     "requirement": "Defeat 3 Opponents in Free Duel",
     "cards": [
@@ -2226,6 +2233,7 @@
     ]
   },
   "King of the Ark": {
+    "id": 8,
     "title": "King of the Ark",
     "requirement": "Defeat 20 Opponents in Free Duel",
     "cards": [
@@ -2539,6 +2547,7 @@
     ]
   },
   "Rumbling Thunder": {
+    "id": 9,
     "title": "Rumbling Thunder",
     "requirement": "Defeat 30 Opponents in Free Duel",
     "cards": [
@@ -2854,6 +2863,7 @@
     ]
   },
   "Inherited Magic": {
+    "id": 10,
     "title": "Inherited Magic",
     "requirement": "Defeat 10 Opponents in Free Duel",
     "cards": [
@@ -3177,6 +3187,7 @@
     ]
   },
   "Dark Meets Light": {
+    "id": 11,
     "title": "Dark Meets Light",
     "requirement": "Defeat 40 Opponents in Free Duel",
     "cards": [
@@ -3522,6 +3533,7 @@
     ]
   },
   "Pitch-Dark Virtue": {
+    "id": 12,
     "title": "Pitch-Dark Virtue",
     "requirement": "Defeat 15 Opponents in Free Duel",
     "cards": [
@@ -3846,6 +3858,7 @@
     ]
   },
   "Mysterious Galaxy": {
+    "id": 13,
     "title": "Mysterious Galaxy",
     "requirement": "Defeat 50 Opponents in Free Duel",
     "cards": [
@@ -4167,6 +4180,7 @@
     ]
   },
   "Shocking Energy": {
+    "id": 14,
     "title": "Shocking Energy",
     "requirement": "Have a total of 50 Duels",
     "cards": [
@@ -4486,6 +4500,7 @@
     ]
   },
   "Extreme Wisdom": {
+    "id": 15,
     "title": "Extreme Wisdom",
     "requirement": "Have a total of 100 Duels",
     "cards": [
@@ -4809,6 +4824,7 @@
     ]
   },
   "Bringer of Light": {
+    "id": 16,
     "title": "Bringer of Light",
     "requirement": "Have a total of 200 Duels",
     "cards": [
@@ -5129,6 +5145,7 @@
     ]
   },
   "Ultimate Light": {
+    "id": 17,
     "title": "Ultimate Light",
     "requirement": "World of Grace - All Spirits",
     "cards": [
@@ -5454,6 +5471,7 @@
     ]
   },
   "Rousing Chaos": {
+    "id": 18,
     "title": "Rousing Chaos",
     "requirement": "World of Sunlight",
     "cards": [
@@ -5771,6 +5789,7 @@
     ]
   },
   "Absolute Nothing": {
+    "id": 19,
     "title": "Absolute Nothing",
     "requirement": "World of Sunlight",
     "cards": [
@@ -6088,6 +6107,7 @@
     ]
   },
   "Out of the Abyss": {
+    "id": 20,
     "title": "Out of the Abyss",
     "requirement": "World of Sunlight (Sea) - All Spirits",
     "cards": [
@@ -6408,6 +6428,7 @@
     ]
   },
   "Dragon Destroyer": {
+    "id": 21,
     "title": "Dragon Destroyer",
     "requirement": "World of Sunlight (Desert) - All Spirits",
     "cards": [
@@ -6733,6 +6754,7 @@
     ]
   },
   "Never Setting Sun": {
+    "id": 22,
     "title": "Never Setting Sun",
     "requirement": "World of Civilization",
     "cards": [
@@ -7057,6 +7079,7 @@
     ]
   },
   "Thirst to Destroy": {
+    "id": 23,
     "title": "Thirst to Destroy",
     "requirement": "World of Civilization",
     "cards": [
@@ -7383,6 +7406,7 @@
     ]
   },
   "Beyond Ultimate": {
+    "id": 24,
     "title": "Beyond Ultimate",
     "requirement": "World of Civilization - All Spirits",
     "cards": [
@@ -7715,6 +7739,7 @@
     ]
   },
   "Sleeping Tomb": {
+    "id": 25,
     "title": "Sleeping Tomb",
     "requirement": "World of Darkness",
     "cards": [
@@ -8028,6 +8053,7 @@
     ]
   },
   "Ultimate Darkness": {
+    "id": 26,
     "title": "Ultimate Darkness",
     "requirement": "World of Darkness",
     "cards": [
@@ -8365,6 +8391,7 @@
     ]
   },
   "Venomous Dilemma": {
+    "id": 27,
     "title": "Venomous Dilemma",
     "requirement": "World of Darkness - All Spirits",
     "cards": [
@@ -8708,6 +8735,7 @@
     ]
   },
   "Darkness Removed": {
+    "id": 28,
     "title": "Darkness Removed",
     "requirement": "World of Order",
     "cards": [
@@ -9053,6 +9081,7 @@
     ]
   },
   "Bloodline Destiny": {
+    "id": 29,
     "title": "Bloodline Destiny",
     "requirement": "World of Order",
     "cards": [
@@ -9387,6 +9416,7 @@
     ]
   },
   "The 7 Crystals": {
+    "id": 30,
     "title": "The 7 Crystals",
     "requirement": "World of Order (Sky) - All Spirits",
     "cards": [
@@ -9730,6 +9760,7 @@
     ]
   },
   "Ancient Gadgetry": {
+    "id": 31,
     "title": "Ancient Gadgetry",
     "requirement": "World of Order (Clouds) - All Spirits",
     "cards": [
@@ -10059,6 +10090,7 @@
     ]
   },
   "Mother Earth": {
+    "id": 32,
     "title": "Mother Earth",
     "requirement": "World of Chaos",
     "cards": [
@@ -10394,6 +10426,7 @@
     ]
   },
   "Magma Eruption": {
+    "id": 33,
     "title": "Magma Eruption",
     "requirement": "World of Chaos",
     "cards": [
@@ -10727,6 +10760,7 @@
     ]
   },
   "Chaos of Nothing": {
+    "id": 34,
     "title": "Chaos of Nothing",
     "requirement": "World of Chaos (Neo Space) - All Spirits",
     "cards": [
@@ -11053,6 +11087,7 @@
     ]
   },
   "Bearer of Demise": {
+    "id": 35,
     "title": "Bearer of Demise",
     "requirement": "World of Chaos (Dark Realm Map) - All Spirits",
     "cards": [
@@ -11398,6 +11433,7 @@
     ]
   },
   "Menacing Ruler": {
+    "id": 36,
     "title": "Menacing Ruler",
     "requirement": "Clear Tournament Level 1 (5 times)",
     "cards": [
@@ -11737,6 +11773,7 @@
     ]
   },
   "World in Between": {
+    "id": 37,
     "title": "World in Between",
     "requirement": "Clear Tournament Level 2 (5 times)",
     "cards": [
@@ -12060,6 +12097,7 @@
     ]
   },
   "Light from Clouds": {
+    "id": 38,
     "title": "Light from Clouds",
     "requirement": "Clear Tournament Level 3 (5 times)",
     "cards": [

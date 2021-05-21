@@ -14,6 +14,13 @@ export default function Home() {
 
       <p>Yu-Gi-Oh! is a trademark of Kazuki Takahashi, Shueisha, Konami Japan, etc. ©1996-2021. All rights reserved.</p>
 
+      <Heading>World Championship 2008</Heading>
+      <nav>
+        <li> <Link href="/world-championship-2008/packs">Booster Packs</Link> </li>
+      </nav>
+
+      <hr />
+
       <Heading>Legacy of the Duelist</Heading>
       <nav>
         <li> <Link href="/lotd/packs">Booster Packs</Link> </li>
