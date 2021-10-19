@@ -17,6 +17,7 @@
     "gen-data:wc04": "node scripts/fetch-wc4-boosters.js",
     "gen-data:gx1": "node scripts/fetch-gx1-boosters.js",
     "gen-data:gx3": "node scripts/fetch-gx3-boosters.js",
+    "gen-data:ntr": "node scripts/fetch-ntr-boosters.js",
     "gen-data": "npm-run-all gen-data:*"
   },
   "dependencies": {
