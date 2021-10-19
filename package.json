@@ -12,7 +12,9 @@
     "gen-data:structure-decks": "node scripts/fetch-structure-decks.js",
     "gen-data:wc08": "node scripts/fetch-wc8-boosters.js",
     "gen-data:wc07": "node scripts/fetch-wc7-boosters.js",
+    "gen-data:wc06": "node scripts/fetch-wc6-boosters.js",
     "gen-data:wc05": "node scripts/fetch-wc5-boosters.js",
+    "gen-data:wc04": "node scripts/fetch-wc4-boosters.js",
     "gen-data:gx1": "node scripts/fetch-gx1-boosters.js",
     "gen-data:gx3": "node scripts/fetch-gx3-boosters.js",
     "gen-data": "npm-run-all gen-data:*"
